@@ -28,3 +28,6 @@ Thumbs.db
 # Temp files
 *.tmp
 *.log
+
+# Internal / private docs
+internal data/
