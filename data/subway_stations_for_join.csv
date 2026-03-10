@@ -1,0 +1,972 @@
+station_id,station_name,division,line,borough,zone,latitude,longitude,avg_weekday_ridership,accessibility,opened_year
+1,Line 1 Station 01,A DIVISION,1,Queens,Zone 3,40.702163,-73.763485,20537,Accessible,1949
+2,Line 1 Station 02,A DIVISION,1,Brooklyn,Zone 1,40.850485,-73.909998,47541,Not Accessible,2012
+3,Line 1 Station 03,A DIVISION,1,Queens,Zone 1,40.790349,-74.003616,49425,Not Accessible,2015
+4,Line 1 Station 04,A DIVISION,1,Brooklyn,Zone 2,40.891952,-73.980666,52586,Accessible,1966
+5,Line 1 Station 05,A DIVISION,1,Queens,Zone 3,40.595842,-73.968405,17910,Accessible,1982
+6,Line 1 Station 06,A DIVISION,1,Queens,Zone 1,40.82376,-73.825061,50510,Accessible,1966
+7,Line 1 Station 07,A DIVISION,1,Manhattan,Zone 3,40.766328,-73.859427,61314,Not Accessible,1976
+8,Line 1 Station 08,A DIVISION,1,Manhattan,Zone 1,40.871194,-74.002576,47663,Not Accessible,1921
+9,Line 1 Station 09,A DIVISION,1,Bronx,Zone 1,40.881901,-73.984499,15428,Not Accessible,1951
+10,Line 1 Station 10,A DIVISION,1,Bronx,Zone 3,40.798837,-73.991688,9110,Not Accessible,1959
+11,Line 1 Station 11,A DIVISION,1,Staten Island,Zone 2,40.743123,-73.947348,59363,Not Accessible,1993
+12,Line 1 Station 12,A DIVISION,1,Brooklyn,Zone 1,40.800062,-74.047795,57927,Not Accessible,1921
+13,Line 1 Station 13,A DIVISION,1,Queens,Zone 1,40.775503,-73.805288,13940,Not Accessible,1918
+14,Line 1 Station 14,A DIVISION,1,Bronx,Zone 1,40.815615,-73.937099,53649,Accessible,1954
+15,Line 1 Station 15,A DIVISION,1,Queens,Zone 3,40.849509,-73.914589,10825,Not Accessible,2014
+16,Line 1 Station 16,A DIVISION,1,Brooklyn,Zone 1,40.735573,-73.953048,26399,Accessible,1980
+17,Line 1 Station 17,A DIVISION,1,Manhattan,Zone 1,40.869883,-73.942261,4403,Accessible,1977
+18,Line 1 Station 18,A DIVISION,1,Staten Island,Zone 2,40.699567,-74.044579,14794,Not Accessible,1936
+19,Line 1 Station 19,A DIVISION,1,Staten Island,Zone 3,40.565019,-73.769488,60074,Not Accessible,1937
+20,Line 1 Station 20,A DIVISION,1,Queens,Zone 2,40.84761,-74.04769,43324,Not Accessible,1922
+21,Line 1 Station 21,A DIVISION,1,Staten Island,Zone 1,40.723194,-73.965001,61944,Accessible,2001
+22,Line 1 Station 22,A DIVISION,1,Brooklyn,Zone 3,40.658353,-73.907987,22078,Not Accessible,1938
+23,Line 1 Station 23,A DIVISION,1,Brooklyn,Zone 3,40.730671,-74.026682,32904,Not Accessible,1914
+24,Line 1 Station 24,A DIVISION,1,Bronx,Zone 1,40.564704,-74.015971,59814,Not Accessible,1985
+25,Line 1 Station 25,A DIVISION,1,Manhattan,Zone 2,40.619075,-73.909016,31535,Accessible,1970
+26,Line 1 Station 26,A DIVISION,1,Manhattan,Zone 1,40.678118,-73.997661,37083,Not Accessible,1910
+27,Line 1 Station 27,A DIVISION,1,Brooklyn,Zone 2,40.815198,-74.01584,37653,Accessible,1972
+28,Line 1 Station 28,A DIVISION,1,Queens,Zone 3,40.673581,-74.00707,48579,Not Accessible,1965
+29,Line 1 Station 29,A DIVISION,1,Brooklyn,Zone 3,40.71585,-73.923866,21617,Accessible,1919
+30,Line 1 Station 30,A DIVISION,1,Bronx,Zone 2,40.880071,-73.84986,64722,Accessible,1976
+31,Line 1 Station 31,A DIVISION,1,Manhattan,Zone 3,40.632849,-73.861151,34459,Not Accessible,1949
+32,Line 1 Station 32,A DIVISION,1,Bronx,Zone 3,40.569387,-74.012848,52082,Not Accessible,1925
+33,Line 1 Station 33,A DIVISION,1,Manhattan,Zone 2,40.555615,-73.937831,25975,Not Accessible,1983
+34,Line 1 Station 34,A DIVISION,1,Staten Island,Zone 3,40.88215,-73.965221,48680,Not Accessible,2015
+35,Line 1 Station 35,A DIVISION,1,Bronx,Zone 2,40.680962,-73.930103,38313,Accessible,2003
+36,Line 1 Station 36,A DIVISION,1,Queens,Zone 2,40.568681,-73.910527,14969,Not Accessible,1922
+37,Line 2 Station 01,A DIVISION,2,Staten Island,Zone 2,40.670951,-74.022352,40804,Accessible,1921
+38,Line 2 Station 02,A DIVISION,2,Queens,Zone 3,40.679639,-73.941187,60554,Accessible,1949
+39,Line 2 Station 03,A DIVISION,2,Manhattan,Zone 3,40.862467,-73.860273,28795,Not Accessible,1931
+40,Line 2 Station 04,A DIVISION,2,Bronx,Zone 1,40.707355,-73.960002,64609,Not Accessible,1921
+41,Line 2 Station 05,A DIVISION,2,Staten Island,Zone 2,40.758578,-73.789313,44698,Not Accessible,1997
+42,Line 2 Station 06,A DIVISION,2,Manhattan,Zone 1,40.659958,-73.753666,15767,Not Accessible,1999
+43,Line 2 Station 07,A DIVISION,2,Staten Island,Zone 2,40.650196,-73.97161,30000,Accessible,2002
+44,Line 2 Station 08,A DIVISION,2,Brooklyn,Zone 1,40.786715,-73.784847,48472,Accessible,1981
+45,Line 2 Station 09,A DIVISION,2,Manhattan,Zone 1,40.867606,-73.775811,64982,Accessible,1939
+46,Line 2 Station 10,A DIVISION,2,Brooklyn,Zone 2,40.896217,-73.846585,33615,Accessible,1951
+47,Line 2 Station 11,A DIVISION,2,Brooklyn,Zone 3,40.617896,-73.956637,21203,Accessible,2006
+48,Line 2 Station 12,A DIVISION,2,Bronx,Zone 3,40.894413,-74.021097,53421,Not Accessible,1957
+49,Line 2 Station 13,A DIVISION,2,Brooklyn,Zone 2,40.567983,-73.897338,31222,Accessible,1938
+50,Line 2 Station 14,A DIVISION,2,Brooklyn,Zone 1,40.721492,-74.03275,2819,Not Accessible,1923
+51,Line 2 Station 15,A DIVISION,2,Staten Island,Zone 3,40.701772,-73.780397,40553,Accessible,1972
+52,Line 2 Station 16,A DIVISION,2,Bronx,Zone 2,40.761246,-73.761107,47381,Accessible,1945
+53,Line 2 Station 17,A DIVISION,2,Manhattan,Zone 3,40.562279,-73.837531,10125,Not Accessible,1940
+54,Line 2 Station 18,A DIVISION,2,Brooklyn,Zone 1,40.80709,-73.81656,27153,Not Accessible,1995
+55,Line 2 Station 19,A DIVISION,2,Manhattan,Zone 1,40.82833,-73.979905,50319,Accessible,1979
+56,Line 2 Station 20,A DIVISION,2,Staten Island,Zone 2,40.878831,-73.843618,57707,Not Accessible,1961
+57,Line 2 Station 21,A DIVISION,2,Staten Island,Zone 2,40.888006,-73.76184,31655,Not Accessible,1945
+58,Line 2 Station 22,A DIVISION,2,Bronx,Zone 3,40.61538,-74.04047,18485,Accessible,1924
+59,Line 2 Station 23,A DIVISION,2,Brooklyn,Zone 1,40.740569,-74.028597,62593,Not Accessible,1959
+60,Line 2 Station 24,A DIVISION,2,Staten Island,Zone 3,40.814302,-73.94813,25701,Accessible,1996
+61,Line 2 Station 25,A DIVISION,2,Brooklyn,Zone 2,40.806437,-73.779128,38338,Accessible,1921
+62,Line 2 Station 26,A DIVISION,2,Manhattan,Zone 3,40.763226,-73.990765,6471,Accessible,1913
+63,Line 2 Station 27,A DIVISION,2,Queens,Zone 3,40.573506,-73.851744,47028,Accessible,1919
+64,Line 2 Station 28,A DIVISION,2,Bronx,Zone 2,40.555286,-73.833166,35813,Not Accessible,1988
+65,Line 2 Station 29,A DIVISION,2,Brooklyn,Zone 2,40.709069,-73.99646,11246,Not Accessible,1984
+66,Line 2 Station 30,A DIVISION,2,Brooklyn,Zone 1,40.590676,-73.779492,64868,Accessible,2012
+67,Line 2 Station 31,A DIVISION,2,Brooklyn,Zone 1,40.713802,-73.922894,46665,Not Accessible,1905
+68,Line 2 Station 32,A DIVISION,2,Brooklyn,Zone 1,40.644481,-73.932511,53309,Not Accessible,1944
+69,Line 2 Station 33,A DIVISION,2,Queens,Zone 2,40.661688,-73.783444,57257,Not Accessible,1988
+70,Line 2 Station 34,A DIVISION,2,Staten Island,Zone 3,40.757831,-73.773268,32367,Not Accessible,1976
+71,Line 2 Station 35,A DIVISION,2,Bronx,Zone 2,40.833469,-73.845804,42142,Not Accessible,2003
+72,Line 2 Station 36,A DIVISION,2,Manhattan,Zone 1,40.720581,-73.785569,10959,Accessible,1994
+73,Line 2 Station 37,A DIVISION,2,Brooklyn,Zone 2,40.62844,-73.980293,40911,Not Accessible,1958
+74,Line 2 Station 38,A DIVISION,2,Brooklyn,Zone 3,40.819236,-73.864841,4829,Not Accessible,2005
+75,Line 2 Station 39,A DIVISION,2,Brooklyn,Zone 1,40.848199,-73.981352,21414,Accessible,1930
+76,Line 2 Station 40,A DIVISION,2,Bronx,Zone 1,40.596405,-73.938506,54225,Accessible,1951
+77,Line 2 Station 41,A DIVISION,2,Bronx,Zone 3,40.785002,-73.926223,27703,Not Accessible,1906
+78,Line 2 Station 42,A DIVISION,2,Staten Island,Zone 2,40.781336,-73.992487,38375,Accessible,1913
+79,Line 2 Station 43,A DIVISION,2,Queens,Zone 2,40.67912,-73.947692,58269,Not Accessible,1925
+80,Line 2 Station 44,A DIVISION,2,Queens,Zone 3,40.819381,-73.823714,37526,Not Accessible,1975
+81,Line 2 Station 45,A DIVISION,2,Bronx,Zone 1,40.650697,-73.994584,47078,Not Accessible,1998
+82,Line 2 Station 46,A DIVISION,2,Queens,Zone 3,40.796292,-74.025441,59982,Accessible,1968
+83,Line 2 Station 47,A DIVISION,2,Queens,Zone 2,40.659459,-73.751363,41801,Not Accessible,1949
+84,Line 3 Station 01,A DIVISION,3,Bronx,Zone 3,40.725852,-74.021267,5054,Not Accessible,1967
+85,Line 3 Station 02,A DIVISION,3,Brooklyn,Zone 1,40.772445,-73.876854,17919,Not Accessible,1928
+86,Line 3 Station 03,A DIVISION,3,Manhattan,Zone 1,40.85184,-74.043921,48055,Accessible,1988
+87,Line 3 Station 04,A DIVISION,3,Bronx,Zone 1,40.860752,-73.976951,39245,Not Accessible,2009
+88,Line 3 Station 05,A DIVISION,3,Manhattan,Zone 1,40.788633,-73.796948,49354,Not Accessible,2011
+89,Line 3 Station 06,A DIVISION,3,Staten Island,Zone 1,40.893439,-74.01004,52767,Not Accessible,1969
+90,Line 3 Station 07,A DIVISION,3,Staten Island,Zone 2,40.595026,-73.906735,8715,Accessible,1914
+91,Line 3 Station 08,A DIVISION,3,Manhattan,Zone 1,40.630214,-74.041944,5036,Not Accessible,2009
+92,Line 3 Station 09,A DIVISION,3,Brooklyn,Zone 1,40.827162,-73.842142,35227,Accessible,1912
+93,Line 3 Station 10,A DIVISION,3,Queens,Zone 2,40.706201,-73.811224,10516,Accessible,1976
+94,Line 3 Station 11,A DIVISION,3,Staten Island,Zone 1,40.789178,-74.014835,46278,Not Accessible,1946
+95,Line 3 Station 12,A DIVISION,3,Manhattan,Zone 2,40.712066,-73.851629,36876,Not Accessible,2006
+96,Line 3 Station 13,A DIVISION,3,Manhattan,Zone 2,40.72175,-73.916478,44193,Accessible,2007
+97,Line 3 Station 14,A DIVISION,3,Bronx,Zone 3,40.579841,-73.772788,39994,Not Accessible,1940
+98,Line 3 Station 15,A DIVISION,3,Staten Island,Zone 3,40.602004,-73.790486,46956,Accessible,1969
+99,Line 3 Station 16,A DIVISION,3,Queens,Zone 3,40.733456,-73.751389,47691,Accessible,1912
+100,Line 3 Station 17,A DIVISION,3,Queens,Zone 1,40.678393,-73.964791,8840,Accessible,2009
+101,Line 3 Station 18,A DIVISION,3,Queens,Zone 1,40.770166,-73.751372,36987,Not Accessible,1997
+102,Line 3 Station 19,A DIVISION,3,Manhattan,Zone 3,40.635701,-73.906173,22961,Not Accessible,1939
+103,Line 3 Station 20,A DIVISION,3,Brooklyn,Zone 3,40.794527,-74.004729,46555,Not Accessible,1982
+104,Line 3 Station 21,A DIVISION,3,Staten Island,Zone 3,40.716017,-73.996824,28261,Not Accessible,2013
+105,Line 3 Station 22,A DIVISION,3,Manhattan,Zone 3,40.839912,-73.804218,7841,Not Accessible,2009
+106,Line 3 Station 23,A DIVISION,3,Bronx,Zone 3,40.886058,-73.981825,14163,Not Accessible,1920
+107,Line 3 Station 24,A DIVISION,3,Brooklyn,Zone 1,40.563706,-73.880353,57222,Accessible,1981
+108,Line 3 Station 25,A DIVISION,3,Brooklyn,Zone 2,40.789001,-73.811423,44751,Not Accessible,1949
+109,Line 3 Station 26,A DIVISION,3,Manhattan,Zone 3,40.62585,-73.822702,47934,Not Accessible,1944
+110,Line 3 Station 27,A DIVISION,3,Staten Island,Zone 3,40.806614,-73.98832,58298,Accessible,1996
+111,Line 3 Station 28,A DIVISION,3,Bronx,Zone 3,40.623427,-73.833785,49763,Accessible,1952
+112,Line 3 Station 29,A DIVISION,3,Queens,Zone 2,40.788578,-73.767,61769,Not Accessible,2015
+113,Line 3 Station 30,A DIVISION,3,Brooklyn,Zone 2,40.852327,-73.984664,24276,Accessible,1904
+114,Line 3 Station 31,A DIVISION,3,Bronx,Zone 3,40.886188,-74.028902,50699,Accessible,1950
+115,Line 3 Station 32,A DIVISION,3,Brooklyn,Zone 3,40.723055,-73.999075,60424,Not Accessible,1997
+116,Line 3 Station 33,A DIVISION,3,Queens,Zone 3,40.838501,-73.754665,46860,Accessible,1961
+117,Line 3 Station 34,A DIVISION,3,Bronx,Zone 2,40.614264,-73.792207,37258,Accessible,1920
+118,Line 3 Station 35,A DIVISION,3,Brooklyn,Zone 1,40.654257,-73.924645,60936,Accessible,1938
+119,Line 4 Station 01,A DIVISION,4,Bronx,Zone 1,40.554017,-73.828945,36472,Accessible,1954
+120,Line 4 Station 02,A DIVISION,4,Manhattan,Zone 3,40.713826,-74.026906,37489,Accessible,1976
+121,Line 4 Station 03,A DIVISION,4,Bronx,Zone 2,40.753918,-73.884082,45487,Accessible,1969
+122,Line 4 Station 04,A DIVISION,4,Manhattan,Zone 3,40.772097,-73.798476,49282,Not Accessible,1933
+123,Line 4 Station 05,A DIVISION,4,Queens,Zone 3,40.748736,-74.007659,3829,Not Accessible,1923
+124,Line 4 Station 06,A DIVISION,4,Queens,Zone 2,40.602292,-74.040211,28137,Accessible,1958
+125,Line 4 Station 07,A DIVISION,4,Queens,Zone 3,40.58039,-74.046919,52538,Not Accessible,1967
+126,Line 4 Station 08,A DIVISION,4,Bronx,Zone 1,40.557454,-73.910385,37909,Accessible,1956
+127,Line 4 Station 09,A DIVISION,4,Staten Island,Zone 3,40.806096,-73.864772,54444,Accessible,1969
+128,Line 4 Station 10,A DIVISION,4,Brooklyn,Zone 1,40.74871,-73.757319,16808,Accessible,2010
+129,Line 4 Station 11,A DIVISION,4,Staten Island,Zone 2,40.774566,-74.017862,54346,Not Accessible,1955
+130,Line 4 Station 12,A DIVISION,4,Brooklyn,Zone 2,40.786572,-73.852222,32197,Accessible,1984
+131,Line 4 Station 13,A DIVISION,4,Bronx,Zone 3,40.756667,-73.885639,35241,Accessible,1913
+132,Line 4 Station 14,A DIVISION,4,Queens,Zone 2,40.642352,-73.906726,46823,Accessible,1980
+133,Line 4 Station 15,A DIVISION,4,Queens,Zone 1,40.711121,-73.973025,42978,Not Accessible,1998
+134,Line 4 Station 16,A DIVISION,4,Brooklyn,Zone 2,40.573385,-74.030669,54375,Accessible,1904
+135,Line 4 Station 17,A DIVISION,4,Staten Island,Zone 3,40.877705,-73.845551,8403,Accessible,1974
+136,Line 4 Station 18,A DIVISION,4,Manhattan,Zone 1,40.799801,-73.950243,8865,Accessible,1989
+137,Line 4 Station 19,A DIVISION,4,Staten Island,Zone 2,40.654156,-73.910898,41448,Not Accessible,1947
+138,Line 4 Station 20,A DIVISION,4,Staten Island,Zone 1,40.750662,-73.81174,13762,Not Accessible,1992
+139,Line 4 Station 21,A DIVISION,4,Queens,Zone 2,40.608695,-74.006782,61246,Accessible,1936
+140,Line 4 Station 22,A DIVISION,4,Manhattan,Zone 1,40.875537,-73.776433,41276,Not Accessible,2000
+141,Line 4 Station 23,A DIVISION,4,Brooklyn,Zone 2,40.78023,-73.98166,15021,Accessible,1964
+142,Line 4 Station 24,A DIVISION,4,Manhattan,Zone 1,40.646811,-73.780135,40378,Accessible,1955
+143,Line 4 Station 25,A DIVISION,4,Bronx,Zone 1,40.611867,-73.964214,29826,Not Accessible,2011
+144,Line 4 Station 26,A DIVISION,4,Bronx,Zone 1,40.781793,-74.0078,57547,Not Accessible,1959
+145,Line 4 Station 27,A DIVISION,4,Queens,Zone 3,40.601048,-73.829237,63253,Accessible,1987
+146,Line 4 Station 28,A DIVISION,4,Staten Island,Zone 1,40.719603,-73.802159,27729,Not Accessible,1961
+147,Line 4 Station 29,A DIVISION,4,Queens,Zone 3,40.772406,-74.006276,47304,Accessible,1998
+148,Line 4 Station 30,A DIVISION,4,Manhattan,Zone 3,40.830304,-73.765249,58649,Not Accessible,1943
+149,Line 4 Station 31,A DIVISION,4,Brooklyn,Zone 1,40.69438,-74.041205,52024,Accessible,1978
+150,Line 4 Station 32,A DIVISION,4,Manhattan,Zone 3,40.643233,-73.938813,6428,Accessible,1906
+151,Line 4 Station 33,A DIVISION,4,Queens,Zone 3,40.603233,-73.943723,8870,Not Accessible,1910
+152,Line 4 Station 34,A DIVISION,4,Staten Island,Zone 2,40.667735,-73.99596,55992,Not Accessible,1947
+153,Line 4 Station 35,A DIVISION,4,Brooklyn,Zone 2,40.748745,-73.900106,29773,Not Accessible,1931
+154,Line 4 Station 36,A DIVISION,4,Bronx,Zone 1,40.550741,-73.846795,5197,Accessible,1981
+155,Line 4 Station 37,A DIVISION,4,Bronx,Zone 3,40.572741,-73.969129,31275,Accessible,1967
+156,Line 4 Station 38,A DIVISION,4,Manhattan,Zone 2,40.85072,-74.036541,57551,Accessible,1928
+157,Line 4 Station 39,A DIVISION,4,Staten Island,Zone 1,40.786921,-73.790096,12088,Not Accessible,1943
+158,Line 4 Station 40,A DIVISION,4,Queens,Zone 1,40.858792,-73.955139,14458,Not Accessible,1940
+159,Line 4 Station 41,A DIVISION,4,Bronx,Zone 2,40.680251,-73.96421,14978,Not Accessible,1908
+160,Line 4 Station 42,A DIVISION,4,Staten Island,Zone 2,40.589541,-74.038421,26145,Not Accessible,1935
+161,Line 4 Station 43,A DIVISION,4,Staten Island,Zone 1,40.735273,-73.768425,35960,Not Accessible,1928
+162,Line 4 Station 44,A DIVISION,4,Bronx,Zone 3,40.813027,-74.046461,38532,Not Accessible,1965
+163,Line 4 Station 45,A DIVISION,4,Brooklyn,Zone 3,40.834231,-74.037562,16212,Accessible,1987
+164,Line 4 Station 46,A DIVISION,4,Bronx,Zone 2,40.705478,-73.994037,42332,Accessible,1926
+165,Line 5 Station 01,A DIVISION,5,Manhattan,Zone 3,40.681524,-74.048199,20649,Accessible,1986
+166,Line 5 Station 02,A DIVISION,5,Manhattan,Zone 2,40.795473,-73.799274,8084,Not Accessible,1920
+167,Line 5 Station 03,A DIVISION,5,Manhattan,Zone 1,40.713242,-73.902505,30860,Not Accessible,1923
+168,Line 5 Station 04,A DIVISION,5,Brooklyn,Zone 3,40.581744,-73.948884,34971,Accessible,1932
+169,Line 5 Station 05,A DIVISION,5,Manhattan,Zone 3,40.871415,-73.807846,62959,Not Accessible,1910
+170,Line 5 Station 06,A DIVISION,5,Queens,Zone 2,40.83624,-74.046844,20306,Accessible,1956
+171,Line 5 Station 07,A DIVISION,5,Bronx,Zone 2,40.550187,-73.909423,24716,Accessible,1997
+172,Line 5 Station 08,A DIVISION,5,Staten Island,Zone 2,40.720254,-73.945496,42790,Not Accessible,1956
+173,Line 5 Station 09,A DIVISION,5,Bronx,Zone 1,40.691624,-73.930643,60651,Not Accessible,1912
+174,Line 5 Station 10,A DIVISION,5,Brooklyn,Zone 3,40.629383,-73.937958,43824,Not Accessible,1929
+175,Line 5 Station 11,A DIVISION,5,Brooklyn,Zone 3,40.760629,-73.861066,27188,Not Accessible,1914
+176,Line 5 Station 12,A DIVISION,5,Staten Island,Zone 2,40.638811,-73.963968,20201,Not Accessible,2015
+177,Line 5 Station 13,A DIVISION,5,Bronx,Zone 2,40.553828,-73.943472,56824,Not Accessible,1925
+178,Line 5 Station 14,A DIVISION,5,Brooklyn,Zone 1,40.854611,-73.990935,6487,Accessible,1959
+179,Line 5 Station 15,A DIVISION,5,Staten Island,Zone 2,40.867764,-73.856827,50076,Not Accessible,1911
+180,Line 5 Station 16,A DIVISION,5,Bronx,Zone 1,40.785355,-73.948321,16709,Accessible,1910
+181,Line 5 Station 17,A DIVISION,5,Queens,Zone 2,40.65638,-73.816605,29716,Accessible,1988
+182,Line 5 Station 18,A DIVISION,5,Staten Island,Zone 1,40.572601,-73.923303,57816,Accessible,1979
+183,Line 5 Station 19,A DIVISION,5,Brooklyn,Zone 1,40.743045,-73.801149,19954,Accessible,1914
+184,Line 5 Station 20,A DIVISION,5,Manhattan,Zone 1,40.72887,-73.759142,53851,Accessible,1973
+185,Line 5 Station 21,A DIVISION,5,Brooklyn,Zone 1,40.599838,-73.806754,23501,Not Accessible,1985
+186,Line 5 Station 22,A DIVISION,5,Brooklyn,Zone 1,40.713954,-73.809821,14517,Not Accessible,1946
+187,Line 5 Station 23,A DIVISION,5,Bronx,Zone 3,40.869276,-73.840182,29300,Accessible,1912
+188,Line 5 Station 24,A DIVISION,5,Queens,Zone 2,40.86473,-73.750714,8913,Not Accessible,1956
+189,Line 5 Station 25,A DIVISION,5,Brooklyn,Zone 2,40.634695,-73.877333,28495,Not Accessible,1944
+190,Line 5 Station 26,A DIVISION,5,Queens,Zone 1,40.820788,-73.788996,11228,Not Accessible,2000
+191,Line 5 Station 27,A DIVISION,5,Staten Island,Zone 1,40.601067,-73.932972,24210,Accessible,1961
+192,Line 5 Station 28,A DIVISION,5,Brooklyn,Zone 2,40.617897,-73.778626,42460,Not Accessible,1938
+193,Line 5 Station 29,A DIVISION,5,Manhattan,Zone 3,40.718781,-73.906995,14753,Accessible,2010
+194,Line 5 Station 30,A DIVISION,5,Staten Island,Zone 3,40.562811,-73.817203,62364,Not Accessible,1937
+195,Line 5 Station 31,A DIVISION,5,Bronx,Zone 2,40.873006,-74.015927,64724,Accessible,1979
+196,Line 5 Station 32,A DIVISION,5,Bronx,Zone 1,40.737811,-74.010575,8141,Accessible,1936
+197,Line 5 Station 33,A DIVISION,5,Staten Island,Zone 2,40.774852,-73.966959,45448,Not Accessible,1926
+198,Line 5 Station 34,A DIVISION,5,Staten Island,Zone 3,40.569485,-73.880534,10536,Not Accessible,1944
+199,Line 5 Station 35,A DIVISION,5,Staten Island,Zone 1,40.880238,-73.776572,30293,Accessible,2014
+200,Line 5 Station 36,A DIVISION,5,Queens,Zone 1,40.627318,-73.979176,30134,Not Accessible,1961
+201,Line 5 Station 37,A DIVISION,5,Brooklyn,Zone 2,40.837875,-73.955601,52487,Not Accessible,1963
+202,Line 5 Station 38,A DIVISION,5,Bronx,Zone 1,40.591378,-73.955051,42625,Not Accessible,1973
+203,Line 5 Station 39,A DIVISION,5,Queens,Zone 3,40.787915,-73.810085,38573,Not Accessible,1966
+204,Line 5 Station 40,A DIVISION,5,Manhattan,Zone 1,40.887805,-73.942966,51061,Not Accessible,2000
+205,Line 5 Station 41,A DIVISION,5,Queens,Zone 1,40.813996,-73.812547,57754,Not Accessible,1925
+206,Line 5 Station 42,A DIVISION,5,Staten Island,Zone 1,40.557741,-73.880882,35937,Not Accessible,2004
+207,Line 5 Station 43,A DIVISION,5,Brooklyn,Zone 2,40.766742,-73.84342,25375,Not Accessible,1998
+208,Line 5 Station 44,A DIVISION,5,Brooklyn,Zone 1,40.571708,-73.951601,27925,Accessible,1932
+209,Line 5 Station 45,A DIVISION,5,Brooklyn,Zone 3,40.791601,-73.915791,29094,Not Accessible,1995
+210,Line 5 Station 46,A DIVISION,5,Staten Island,Zone 1,40.759058,-73.88637,45328,Not Accessible,1984
+211,Line 5 Station 47,A DIVISION,5,Staten Island,Zone 1,40.59946,-73.947371,22026,Accessible,1915
+212,Line 6 Station 01,A DIVISION,6,Bronx,Zone 3,40.805157,-73.815747,8825,Not Accessible,1988
+213,Line 6 Station 02,A DIVISION,6,Bronx,Zone 2,40.719322,-73.936202,19548,Accessible,1986
+214,Line 6 Station 03,A DIVISION,6,Bronx,Zone 2,40.661214,-74.020581,26211,Accessible,1971
+215,Line 6 Station 04,A DIVISION,6,Queens,Zone 1,40.734643,-73.944376,38292,Accessible,1996
+216,Line 6 Station 05,A DIVISION,6,Brooklyn,Zone 3,40.564956,-73.88848,31975,Accessible,1918
+217,Line 6 Station 06,A DIVISION,6,Staten Island,Zone 2,40.574812,-73.942094,18202,Not Accessible,1910
+218,Line 6 Station 07,A DIVISION,6,Staten Island,Zone 2,40.889987,-73.92276,10506,Not Accessible,1976
+219,Line 6 Station 08,A DIVISION,6,Bronx,Zone 3,40.88649,-73.781514,14816,Accessible,1981
+220,Line 6 Station 09,A DIVISION,6,Manhattan,Zone 3,40.566196,-73.90006,26620,Not Accessible,1909
+221,Line 6 Station 10,A DIVISION,6,Bronx,Zone 1,40.896881,-73.88262,36155,Not Accessible,2009
+222,Line 6 Station 11,A DIVISION,6,Brooklyn,Zone 3,40.797108,-73.994952,25239,Accessible,1918
+223,Line 6 Station 12,A DIVISION,6,Bronx,Zone 3,40.655252,-73.89385,32053,Not Accessible,1910
+224,Line 6 Station 13,A DIVISION,6,Brooklyn,Zone 3,40.871798,-73.753857,18890,Accessible,1915
+225,Line 6 Station 14,A DIVISION,6,Manhattan,Zone 1,40.706409,-73.972605,49309,Not Accessible,1953
+226,Line 6 Station 15,A DIVISION,6,Brooklyn,Zone 2,40.63397,-73.827618,7496,Accessible,1954
+227,Line 6 Station 16,A DIVISION,6,Queens,Zone 2,40.77323,-73.756251,15248,Accessible,1969
+228,Line 6 Station 17,A DIVISION,6,Staten Island,Zone 3,40.60155,-73.942711,24361,Not Accessible,1966
+229,Line 6 Station 18,A DIVISION,6,Staten Island,Zone 3,40.698488,-73.820082,57977,Accessible,1995
+230,Line 6 Station 19,A DIVISION,6,Manhattan,Zone 1,40.60555,-73.802605,34615,Not Accessible,1967
+231,Line 6 Station 20,A DIVISION,6,Manhattan,Zone 3,40.770266,-73.875223,27120,Not Accessible,1919
+232,Line 6 Station 21,A DIVISION,6,Queens,Zone 3,40.649425,-74.030204,24942,Accessible,2007
+233,Line 6 Station 22,A DIVISION,6,Queens,Zone 2,40.675616,-73.898329,16757,Accessible,2007
+234,Line 6 Station 23,A DIVISION,6,Brooklyn,Zone 2,40.844286,-73.85602,44935,Not Accessible,1976
+235,Line 6 Station 24,A DIVISION,6,Queens,Zone 1,40.765037,-73.874638,57674,Not Accessible,2009
+236,Line 6 Station 25,A DIVISION,6,Staten Island,Zone 1,40.584222,-73.903034,6831,Accessible,2003
+237,Line 6 Station 26,A DIVISION,6,Staten Island,Zone 2,40.598627,-73.829508,57038,Accessible,1930
+238,Line 6 Station 27,A DIVISION,6,Staten Island,Zone 2,40.898953,-73.886676,25775,Not Accessible,1998
+239,Line 6 Station 28,A DIVISION,6,Bronx,Zone 1,40.741952,-73.806961,16211,Not Accessible,2015
+240,Line 6 Station 29,A DIVISION,6,Bronx,Zone 3,40.864487,-73.790668,12561,Accessible,1920
+241,Line 6 Station 30,A DIVISION,6,Bronx,Zone 2,40.644125,-74.045389,14203,Accessible,1920
+242,Line 6 Station 31,A DIVISION,6,Bronx,Zone 2,40.871488,-74.025116,13958,Not Accessible,1910
+243,Line 6 Station 32,A DIVISION,6,Bronx,Zone 3,40.724159,-73.846603,2905,Not Accessible,1932
+244,Line 6 Station 33,A DIVISION,6,Brooklyn,Zone 2,40.684216,-73.999845,61162,Not Accessible,1956
+245,Line 6 Station 34,A DIVISION,6,Manhattan,Zone 3,40.820987,-74.027209,35567,Not Accessible,2006
+246,Line 7 Station 01,A DIVISION,7,Manhattan,Zone 2,40.679455,-74.002428,20284,Not Accessible,1975
+247,Line 7 Station 02,A DIVISION,7,Staten Island,Zone 1,40.602347,-73.929163,37005,Accessible,2005
+248,Line 7 Station 03,A DIVISION,7,Queens,Zone 1,40.793605,-73.95017,34044,Accessible,2002
+249,Line 7 Station 04,A DIVISION,7,Queens,Zone 3,40.565772,-73.797541,63280,Not Accessible,1992
+250,Line 7 Station 05,A DIVISION,7,Brooklyn,Zone 3,40.812064,-73.881071,8785,Not Accessible,1999
+251,Line 7 Station 06,A DIVISION,7,Bronx,Zone 1,40.743335,-74.013682,47470,Accessible,1993
+252,Line 7 Station 07,A DIVISION,7,Staten Island,Zone 3,40.622861,-73.884154,20072,Accessible,1976
+253,Line 7 Station 08,A DIVISION,7,Brooklyn,Zone 2,40.797352,-73.947854,16919,Not Accessible,1911
+254,Line 7 Station 09,A DIVISION,7,Queens,Zone 2,40.889673,-73.963225,27549,Not Accessible,1948
+255,Line 7 Station 10,A DIVISION,7,Queens,Zone 3,40.780106,-74.01659,53009,Not Accessible,1917
+256,Line 7 Station 11,A DIVISION,7,Manhattan,Zone 3,40.822351,-73.773144,51489,Not Accessible,2005
+257,Line 7 Station 12,A DIVISION,7,Staten Island,Zone 3,40.762318,-73.795471,16301,Accessible,1931
+258,Line 7 Station 13,A DIVISION,7,Bronx,Zone 3,40.646807,-73.779557,46214,Accessible,1922
+259,Line 7 Station 14,A DIVISION,7,Staten Island,Zone 3,40.644842,-73.987648,61845,Not Accessible,1952
+260,Line 7 Station 15,A DIVISION,7,Manhattan,Zone 2,40.670746,-73.905292,59532,Not Accessible,1976
+261,Line 7 Station 16,A DIVISION,7,Brooklyn,Zone 2,40.866173,-73.75029,3012,Not Accessible,1977
+262,Line 7 Station 17,A DIVISION,7,Manhattan,Zone 1,40.737189,-73.908847,14708,Accessible,2006
+263,Line 7 Station 18,A DIVISION,7,Staten Island,Zone 3,40.830159,-74.021844,18558,Accessible,2006
+264,Line 7 Station 19,A DIVISION,7,Brooklyn,Zone 3,40.782993,-73.825654,9529,Not Accessible,1924
+265,Line 7 Station 20,A DIVISION,7,Bronx,Zone 1,40.620282,-74.027508,44698,Not Accessible,1973
+266,Line 7 Station 21,A DIVISION,7,Manhattan,Zone 1,40.687476,-73.936006,8839,Not Accessible,1933
+267,Line 7 Station 22,A DIVISION,7,Manhattan,Zone 2,40.695512,-73.997771,63177,Accessible,1909
+268,Line 7 Station 23,A DIVISION,7,Bronx,Zone 1,40.62928,-73.82942,28367,Not Accessible,1944
+269,Line 7 Station 24,A DIVISION,7,Staten Island,Zone 2,40.791475,-73.967783,12641,Not Accessible,1998
+270,Line 7 Station 25,A DIVISION,7,Bronx,Zone 3,40.873824,-73.855753,58115,Not Accessible,1960
+271,Line 7 Station 26,A DIVISION,7,Staten Island,Zone 3,40.697699,-73.780684,44569,Not Accessible,1967
+272,Line 7 Station 27,A DIVISION,7,Queens,Zone 3,40.575355,-73.831025,41990,Not Accessible,1989
+273,Line 7 Station 28,A DIVISION,7,Brooklyn,Zone 2,40.583971,-74.025766,13409,Accessible,1981
+274,Line 7 Station 29,A DIVISION,7,Queens,Zone 3,40.594709,-73.878538,6316,Not Accessible,1981
+275,Line 7 Station 30,A DIVISION,7,Queens,Zone 3,40.698642,-73.756006,44820,Accessible,1962
+276,Line 7 Station 31,A DIVISION,7,Brooklyn,Zone 3,40.869671,-73.760008,17333,Accessible,1990
+277,Line 7 Station 32,A DIVISION,7,Brooklyn,Zone 2,40.870856,-73.908169,61651,Not Accessible,1910
+278,Line A Station 01,B DIVISION,A,Manhattan,Zone 3,40.864278,-73.770582,56241,Accessible,1996
+279,Line A Station 02,B DIVISION,A,Manhattan,Zone 3,40.611611,-74.00357,52633,Accessible,1961
+280,Line A Station 03,B DIVISION,A,Queens,Zone 1,40.598779,-74.018044,28057,Accessible,1946
+281,Line A Station 04,B DIVISION,A,Bronx,Zone 2,40.857942,-74.023141,62237,Not Accessible,1968
+282,Line A Station 05,B DIVISION,A,Bronx,Zone 3,40.609385,-73.751412,12376,Not Accessible,1977
+283,Line A Station 06,B DIVISION,A,Queens,Zone 3,40.838236,-73.968563,61925,Accessible,1964
+284,Line A Station 07,B DIVISION,A,Staten Island,Zone 1,40.755018,-74.040944,46727,Accessible,1936
+285,Line A Station 08,B DIVISION,A,Bronx,Zone 2,40.71597,-73.774274,47703,Accessible,1933
+286,Line A Station 09,B DIVISION,A,Manhattan,Zone 2,40.749596,-74.041412,16571,Accessible,2006
+287,Line A Station 10,B DIVISION,A,Brooklyn,Zone 3,40.829943,-73.948241,6463,Accessible,1938
+288,Line A Station 11,B DIVISION,A,Brooklyn,Zone 2,40.681805,-73.911865,12345,Accessible,1904
+289,Line A Station 12,B DIVISION,A,Bronx,Zone 1,40.642168,-73.950243,43548,Not Accessible,1923
+290,Line A Station 13,B DIVISION,A,Staten Island,Zone 3,40.673585,-73.830643,64451,Not Accessible,1985
+291,Line A Station 14,B DIVISION,A,Manhattan,Zone 3,40.588217,-74.048935,46018,Accessible,1970
+292,Line A Station 15,B DIVISION,A,Bronx,Zone 2,40.629022,-73.800817,14680,Not Accessible,1958
+293,Line A Station 16,B DIVISION,A,Queens,Zone 2,40.842492,-73.894292,56128,Accessible,1975
+294,Line A Station 17,B DIVISION,A,Manhattan,Zone 3,40.644895,-73.804805,9167,Accessible,1954
+295,Line A Station 18,B DIVISION,A,Staten Island,Zone 3,40.81621,-73.923706,59175,Not Accessible,1976
+296,Line A Station 19,B DIVISION,A,Staten Island,Zone 1,40.635264,-73.793212,62335,Not Accessible,1963
+297,Line A Station 20,B DIVISION,A,Bronx,Zone 2,40.891106,-73.846891,43345,Not Accessible,1965
+298,Line A Station 21,B DIVISION,A,Brooklyn,Zone 2,40.786024,-73.880025,40282,Accessible,1991
+299,Line A Station 22,B DIVISION,A,Queens,Zone 3,40.681922,-73.973397,48439,Not Accessible,1998
+300,Line A Station 23,B DIVISION,A,Bronx,Zone 3,40.611497,-74.033601,16742,Accessible,1961
+301,Line A Station 24,B DIVISION,A,Queens,Zone 3,40.630262,-74.039585,42718,Not Accessible,1975
+302,Line A Station 25,B DIVISION,A,Brooklyn,Zone 1,40.724817,-73.807373,29322,Accessible,1924
+303,Line A Station 26,B DIVISION,A,Queens,Zone 3,40.743067,-73.894537,24184,Not Accessible,1944
+304,Line A Station 27,B DIVISION,A,Bronx,Zone 3,40.674709,-73.783958,48759,Accessible,1971
+305,Line A Station 28,B DIVISION,A,Staten Island,Zone 3,40.772906,-73.783628,5299,Accessible,1952
+306,Line A Station 29,B DIVISION,A,Queens,Zone 2,40.609437,-73.814448,19164,Not Accessible,2014
+307,Line A Station 30,B DIVISION,A,Manhattan,Zone 3,40.648905,-73.786414,40902,Not Accessible,1934
+308,Line A Station 31,B DIVISION,A,Queens,Zone 1,40.699216,-73.800371,60047,Not Accessible,1919
+309,Line A Station 32,B DIVISION,A,Bronx,Zone 3,40.869342,-73.969315,28845,Accessible,1940
+310,Line A Station 33,B DIVISION,A,Manhattan,Zone 3,40.795153,-73.999932,4008,Accessible,1907
+311,Line A Station 34,B DIVISION,A,Brooklyn,Zone 2,40.822051,-74.020569,35385,Not Accessible,1979
+312,Line B Station 01,B DIVISION,B,Staten Island,Zone 1,40.789262,-73.959667,63903,Not Accessible,2003
+313,Line B Station 02,B DIVISION,B,Bronx,Zone 1,40.573478,-73.921076,23070,Not Accessible,1946
+314,Line B Station 03,B DIVISION,B,Brooklyn,Zone 2,40.814686,-73.76918,19238,Accessible,2013
+315,Line B Station 04,B DIVISION,B,Staten Island,Zone 1,40.73034,-74.028204,8420,Not Accessible,1996
+316,Line B Station 05,B DIVISION,B,Brooklyn,Zone 1,40.861223,-73.855834,28626,Not Accessible,1937
+317,Line B Station 06,B DIVISION,B,Brooklyn,Zone 2,40.833658,-73.970806,50324,Accessible,1934
+318,Line B Station 07,B DIVISION,B,Brooklyn,Zone 3,40.710257,-73.777423,22389,Not Accessible,1994
+319,Line B Station 08,B DIVISION,B,Bronx,Zone 2,40.73579,-73.845716,56066,Not Accessible,1910
+320,Line B Station 09,B DIVISION,B,Brooklyn,Zone 1,40.588783,-73.803126,26280,Accessible,1944
+321,Line B Station 10,B DIVISION,B,Staten Island,Zone 3,40.699199,-73.900082,53831,Accessible,1966
+322,Line B Station 11,B DIVISION,B,Bronx,Zone 1,40.725036,-73.861594,4235,Accessible,1954
+323,Line B Station 12,B DIVISION,B,Manhattan,Zone 1,40.776785,-73.972225,45429,Accessible,2000
+324,Line B Station 13,B DIVISION,B,Brooklyn,Zone 2,40.617172,-73.866268,45821,Accessible,1944
+325,Line B Station 14,B DIVISION,B,Staten Island,Zone 1,40.59293,-73.977151,14491,Accessible,1927
+326,Line B Station 15,B DIVISION,B,Staten Island,Zone 3,40.782497,-73.757235,27174,Accessible,1965
+327,Line B Station 16,B DIVISION,B,Queens,Zone 2,40.884391,-73.996693,8986,Not Accessible,1956
+328,Line B Station 17,B DIVISION,B,Staten Island,Zone 2,40.896128,-73.97165,55530,Not Accessible,1908
+329,Line B Station 18,B DIVISION,B,Brooklyn,Zone 2,40.614287,-73.900255,13166,Accessible,2011
+330,Line B Station 19,B DIVISION,B,Brooklyn,Zone 1,40.724282,-73.821608,42806,Not Accessible,1949
+331,Line B Station 20,B DIVISION,B,Brooklyn,Zone 1,40.692906,-74.047629,25183,Accessible,1996
+332,Line B Station 21,B DIVISION,B,Manhattan,Zone 1,40.790471,-73.878028,45294,Accessible,1955
+333,Line B Station 22,B DIVISION,B,Staten Island,Zone 3,40.872517,-73.994412,34279,Not Accessible,1938
+334,Line B Station 23,B DIVISION,B,Brooklyn,Zone 3,40.755162,-73.912932,50485,Accessible,1989
+335,Line B Station 24,B DIVISION,B,Brooklyn,Zone 2,40.616944,-73.960985,48295,Not Accessible,1905
+336,Line B Station 25,B DIVISION,B,Manhattan,Zone 2,40.699956,-73.782847,25193,Not Accessible,1906
+337,Line B Station 26,B DIVISION,B,Brooklyn,Zone 2,40.623035,-73.803465,42059,Not Accessible,1945
+338,Line B Station 27,B DIVISION,B,Queens,Zone 1,40.708734,-73.888055,64165,Accessible,1988
+339,Line B Station 28,B DIVISION,B,Brooklyn,Zone 1,40.809736,-73.789563,40698,Accessible,1926
+340,Line B Station 29,B DIVISION,B,Queens,Zone 3,40.665882,-74.004975,24821,Accessible,1993
+341,Line B Station 30,B DIVISION,B,Bronx,Zone 1,40.76032,-73.894234,25465,Accessible,1972
+342,Line B Station 31,B DIVISION,B,Staten Island,Zone 3,40.784605,-73.862364,38585,Not Accessible,1996
+343,Line B Station 32,B DIVISION,B,Brooklyn,Zone 1,40.78661,-74.004325,29374,Not Accessible,1977
+344,Line B Station 33,B DIVISION,B,Manhattan,Zone 2,40.81736,-73.820602,48893,Not Accessible,1919
+345,Line B Station 34,B DIVISION,B,Brooklyn,Zone 1,40.669974,-73.83738,29827,Accessible,1954
+346,Line B Station 35,B DIVISION,B,Brooklyn,Zone 1,40.673651,-73.840047,56457,Accessible,1949
+347,Line B Station 36,B DIVISION,B,Bronx,Zone 2,40.633428,-73.898596,12748,Not Accessible,1917
+348,Line B Station 37,B DIVISION,B,Brooklyn,Zone 2,40.826248,-73.753034,9244,Not Accessible,1986
+349,Line B Station 38,B DIVISION,B,Queens,Zone 1,40.893877,-73.791431,18181,Accessible,1948
+350,Line B Station 39,B DIVISION,B,Bronx,Zone 3,40.815476,-73.784086,39747,Not Accessible,1922
+351,Line C Station 01,B DIVISION,C,Bronx,Zone 3,40.845274,-73.854361,26918,Not Accessible,1951
+352,Line C Station 02,B DIVISION,C,Queens,Zone 3,40.567305,-73.938477,35723,Not Accessible,1915
+353,Line C Station 03,B DIVISION,C,Brooklyn,Zone 3,40.642578,-73.838456,60337,Not Accessible,1949
+354,Line C Station 04,B DIVISION,C,Manhattan,Zone 1,40.647076,-73.885537,20288,Not Accessible,1938
+355,Line C Station 05,B DIVISION,C,Staten Island,Zone 2,40.689346,-73.899229,13532,Not Accessible,1938
+356,Line C Station 06,B DIVISION,C,Staten Island,Zone 1,40.871254,-73.902006,17588,Accessible,1927
+357,Line C Station 07,B DIVISION,C,Brooklyn,Zone 3,40.621647,-73.758311,24684,Accessible,1936
+358,Line C Station 08,B DIVISION,C,Manhattan,Zone 1,40.723754,-74.024681,10793,Accessible,1906
+359,Line C Station 09,B DIVISION,C,Queens,Zone 3,40.62742,-74.006087,31312,Not Accessible,1939
+360,Line C Station 10,B DIVISION,C,Bronx,Zone 1,40.71492,-73.806909,5356,Not Accessible,1969
+361,Line C Station 11,B DIVISION,C,Brooklyn,Zone 1,40.60128,-73.815113,2284,Accessible,1999
+362,Line C Station 12,B DIVISION,C,Queens,Zone 1,40.750054,-73.956433,58596,Not Accessible,2006
+363,Line C Station 13,B DIVISION,C,Bronx,Zone 3,40.879185,-73.811596,4912,Accessible,1961
+364,Line C Station 14,B DIVISION,C,Manhattan,Zone 1,40.774283,-73.952466,10125,Accessible,1929
+365,Line C Station 15,B DIVISION,C,Staten Island,Zone 1,40.785254,-73.975476,39876,Not Accessible,1964
+366,Line C Station 16,B DIVISION,C,Manhattan,Zone 1,40.723167,-73.867695,18746,Accessible,1959
+367,Line C Station 17,B DIVISION,C,Queens,Zone 2,40.720645,-73.871261,22128,Accessible,1936
+368,Line C Station 18,B DIVISION,C,Bronx,Zone 1,40.648687,-73.770652,12309,Not Accessible,1997
+369,Line C Station 19,B DIVISION,C,Queens,Zone 2,40.571242,-73.761816,34326,Not Accessible,1947
+370,Line C Station 20,B DIVISION,C,Staten Island,Zone 2,40.713578,-73.914204,36864,Accessible,1926
+371,Line C Station 21,B DIVISION,C,Staten Island,Zone 2,40.554731,-73.853277,61662,Accessible,1948
+372,Line C Station 22,B DIVISION,C,Brooklyn,Zone 3,40.762334,-73.856665,21836,Not Accessible,1971
+373,Line C Station 23,B DIVISION,C,Manhattan,Zone 1,40.651501,-74.02115,9016,Not Accessible,1950
+374,Line C Station 24,B DIVISION,C,Brooklyn,Zone 1,40.564892,-73.970234,29581,Not Accessible,2012
+375,Line C Station 25,B DIVISION,C,Bronx,Zone 2,40.650759,-73.888765,36159,Accessible,1934
+376,Line C Station 26,B DIVISION,C,Brooklyn,Zone 3,40.593456,-73.756578,54261,Accessible,1965
+377,Line C Station 27,B DIVISION,C,Staten Island,Zone 2,40.747783,-73.912451,61737,Accessible,1958
+378,Line C Station 28,B DIVISION,C,Bronx,Zone 3,40.6445,-73.884026,61670,Not Accessible,1925
+379,Line C Station 29,B DIVISION,C,Manhattan,Zone 1,40.550155,-73.875899,51262,Not Accessible,1967
+380,Line C Station 30,B DIVISION,C,Bronx,Zone 2,40.677877,-73.822042,20603,Not Accessible,1944
+381,Line C Station 31,B DIVISION,C,Brooklyn,Zone 2,40.567323,-73.79692,7291,Accessible,1998
+382,Line C Station 32,B DIVISION,C,Manhattan,Zone 2,40.754704,-74.048335,32488,Not Accessible,1948
+383,Line C Station 33,B DIVISION,C,Queens,Zone 1,40.613595,-73.831092,39727,Not Accessible,2000
+384,Line C Station 34,B DIVISION,C,Brooklyn,Zone 2,40.592642,-73.979764,3130,Not Accessible,1915
+385,Line C Station 35,B DIVISION,C,Bronx,Zone 3,40.600585,-73.826109,48518,Accessible,2000
+386,Line C Station 36,B DIVISION,C,Manhattan,Zone 2,40.653559,-73.878203,22983,Not Accessible,1908
+387,Line C Station 37,B DIVISION,C,Staten Island,Zone 3,40.660016,-73.964442,64679,Not Accessible,1975
+388,Line C Station 38,B DIVISION,C,Queens,Zone 1,40.626636,-73.7944,28580,Accessible,1922
+389,Line C Station 39,B DIVISION,C,Brooklyn,Zone 2,40.835484,-74.009548,18816,Not Accessible,1906
+390,Line C Station 40,B DIVISION,C,Manhattan,Zone 2,40.662578,-73.931488,28316,Not Accessible,1988
+391,Line C Station 41,B DIVISION,C,Bronx,Zone 3,40.619449,-74.006996,56685,Not Accessible,1935
+392,Line D Station 01,B DIVISION,D,Bronx,Zone 1,40.814143,-73.771603,23701,Not Accessible,1905
+393,Line D Station 02,B DIVISION,D,Manhattan,Zone 2,40.750607,-73.784706,18438,Accessible,2000
+394,Line D Station 03,B DIVISION,D,Staten Island,Zone 3,40.706482,-73.920746,8118,Not Accessible,2014
+395,Line D Station 04,B DIVISION,D,Staten Island,Zone 1,40.870478,-74.03642,42520,Accessible,1971
+396,Line D Station 05,B DIVISION,D,Staten Island,Zone 2,40.658254,-73.884787,40819,Not Accessible,1999
+397,Line D Station 06,B DIVISION,D,Queens,Zone 2,40.843413,-73.782306,16501,Accessible,1918
+398,Line D Station 07,B DIVISION,D,Staten Island,Zone 2,40.643433,-74.024498,20300,Accessible,1957
+399,Line D Station 08,B DIVISION,D,Bronx,Zone 2,40.777343,-73.884753,3042,Accessible,1907
+400,Line D Station 09,B DIVISION,D,Brooklyn,Zone 3,40.596463,-73.790581,51079,Not Accessible,2006
+401,Line D Station 10,B DIVISION,D,Staten Island,Zone 2,40.628773,-73.907233,4279,Not Accessible,1974
+402,Line D Station 11,B DIVISION,D,Manhattan,Zone 3,40.625984,-73.852904,23210,Not Accessible,1914
+403,Line D Station 12,B DIVISION,D,Staten Island,Zone 3,40.829424,-73.872044,24813,Accessible,1938
+404,Line D Station 13,B DIVISION,D,Staten Island,Zone 3,40.572968,-74.022833,39412,Accessible,1937
+405,Line D Station 14,B DIVISION,D,Manhattan,Zone 3,40.605408,-73.885206,35750,Not Accessible,1962
+406,Line D Station 15,B DIVISION,D,Brooklyn,Zone 3,40.70419,-73.826894,6176,Accessible,1939
+407,Line D Station 16,B DIVISION,D,Brooklyn,Zone 1,40.708526,-74.002557,63413,Accessible,1908
+408,Line D Station 17,B DIVISION,D,Brooklyn,Zone 1,40.605383,-73.965296,25507,Accessible,1940
+409,Line D Station 18,B DIVISION,D,Queens,Zone 1,40.704639,-73.843629,34178,Accessible,1965
+410,Line D Station 19,B DIVISION,D,Brooklyn,Zone 3,40.781401,-74.039504,52090,Not Accessible,1965
+411,Line D Station 20,B DIVISION,D,Queens,Zone 1,40.691107,-73.95477,26111,Not Accessible,1929
+412,Line D Station 21,B DIVISION,D,Staten Island,Zone 2,40.591844,-73.827719,23967,Not Accessible,1961
+413,Line D Station 22,B DIVISION,D,Queens,Zone 3,40.784541,-73.973761,50297,Not Accessible,2012
+414,Line D Station 23,B DIVISION,D,Manhattan,Zone 3,40.636921,-73.908043,12796,Not Accessible,1967
+415,Line D Station 24,B DIVISION,D,Brooklyn,Zone 3,40.55477,-73.798711,35708,Accessible,2003
+416,Line D Station 25,B DIVISION,D,Manhattan,Zone 2,40.875485,-73.888037,45099,Accessible,1971
+417,Line D Station 26,B DIVISION,D,Bronx,Zone 2,40.589298,-73.908176,59180,Not Accessible,1944
+418,Line D Station 27,B DIVISION,D,Bronx,Zone 1,40.561972,-73.96341,36572,Accessible,1938
+419,Line D Station 28,B DIVISION,D,Brooklyn,Zone 3,40.730487,-73.769227,47763,Not Accessible,1906
+420,Line D Station 29,B DIVISION,D,Brooklyn,Zone 1,40.629432,-73.978945,33120,Accessible,1988
+421,Line D Station 30,B DIVISION,D,Brooklyn,Zone 2,40.579994,-73.936833,15614,Accessible,1952
+422,Line D Station 31,B DIVISION,D,Brooklyn,Zone 2,40.884514,-73.941555,46870,Accessible,1969
+423,Line D Station 32,B DIVISION,D,Manhattan,Zone 2,40.659104,-73.824087,21703,Accessible,1956
+424,Line D Station 33,B DIVISION,D,Manhattan,Zone 1,40.607322,-73.873231,33789,Accessible,1951
+425,Line D Station 34,B DIVISION,D,Bronx,Zone 2,40.751333,-74.024656,62525,Accessible,1991
+426,Line D Station 35,B DIVISION,D,Queens,Zone 3,40.834682,-73.999752,8236,Not Accessible,1988
+427,Line D Station 36,B DIVISION,D,Brooklyn,Zone 3,40.742447,-73.927577,52186,Not Accessible,1967
+428,Line D Station 37,B DIVISION,D,Bronx,Zone 1,40.553016,-73.871486,55447,Accessible,1916
+429,Line D Station 38,B DIVISION,D,Staten Island,Zone 3,40.766663,-74.02649,14159,Not Accessible,2007
+430,Line D Station 39,B DIVISION,D,Bronx,Zone 3,40.829185,-73.78417,26533,Accessible,1966
+431,Line D Station 40,B DIVISION,D,Brooklyn,Zone 2,40.834448,-74.003511,46569,Accessible,1934
+432,Line D Station 41,B DIVISION,D,Brooklyn,Zone 2,40.668848,-73.931019,28436,Not Accessible,1918
+433,Line E Station 01,B DIVISION,E,Staten Island,Zone 3,40.829478,-73.934591,8245,Accessible,1933
+434,Line E Station 02,B DIVISION,E,Manhattan,Zone 1,40.609861,-73.938171,45016,Accessible,1935
+435,Line E Station 03,B DIVISION,E,Manhattan,Zone 2,40.878561,-73.960837,28960,Accessible,1992
+436,Line E Station 04,B DIVISION,E,Manhattan,Zone 2,40.777346,-73.932694,41653,Not Accessible,1948
+437,Line E Station 05,B DIVISION,E,Staten Island,Zone 1,40.803714,-73.773891,39805,Not Accessible,1983
+438,Line E Station 06,B DIVISION,E,Staten Island,Zone 3,40.838391,-73.936942,29548,Not Accessible,2012
+439,Line E Station 07,B DIVISION,E,Staten Island,Zone 3,40.792763,-73.84208,14269,Accessible,1969
+440,Line E Station 08,B DIVISION,E,Manhattan,Zone 3,40.750155,-73.784461,22068,Not Accessible,2011
+441,Line E Station 09,B DIVISION,E,Brooklyn,Zone 2,40.745366,-73.975001,2063,Accessible,1936
+442,Line E Station 10,B DIVISION,E,Queens,Zone 1,40.642388,-73.893893,30052,Not Accessible,2008
+443,Line E Station 11,B DIVISION,E,Bronx,Zone 1,40.651415,-73.900419,36635,Not Accessible,1943
+444,Line E Station 12,B DIVISION,E,Staten Island,Zone 3,40.791286,-73.973397,8090,Not Accessible,1989
+445,Line E Station 13,B DIVISION,E,Manhattan,Zone 3,40.7507,-73.78099,45292,Accessible,1973
+446,Line E Station 14,B DIVISION,E,Manhattan,Zone 1,40.567275,-73.783341,36365,Accessible,1985
+447,Line E Station 15,B DIVISION,E,Bronx,Zone 2,40.551938,-73.786199,59987,Accessible,1925
+448,Line E Station 16,B DIVISION,E,Queens,Zone 1,40.600059,-73.898633,44647,Accessible,1922
+449,Line E Station 17,B DIVISION,E,Manhattan,Zone 2,40.868107,-74.035471,4971,Accessible,1953
+450,Line E Station 18,B DIVISION,E,Queens,Zone 2,40.785118,-73.889817,21680,Not Accessible,1965
+451,Line E Station 19,B DIVISION,E,Queens,Zone 2,40.756991,-73.94407,7891,Accessible,1932
+452,Line E Station 20,B DIVISION,E,Brooklyn,Zone 3,40.650427,-73.84502,60794,Not Accessible,1983
+453,Line E Station 21,B DIVISION,E,Brooklyn,Zone 1,40.816594,-74.010822,20090,Not Accessible,1939
+454,Line E Station 22,B DIVISION,E,Queens,Zone 3,40.699846,-73.769122,8533,Not Accessible,1972
+455,Line E Station 23,B DIVISION,E,Brooklyn,Zone 2,40.643585,-74.022784,44005,Not Accessible,1926
+456,Line E Station 24,B DIVISION,E,Brooklyn,Zone 3,40.803212,-73.866479,31304,Accessible,1968
+457,Line E Station 25,B DIVISION,E,Staten Island,Zone 2,40.815838,-73.826467,56587,Accessible,1920
+458,Line E Station 26,B DIVISION,E,Manhattan,Zone 3,40.887096,-74.041335,17149,Accessible,1925
+459,Line E Station 27,B DIVISION,E,Staten Island,Zone 1,40.65891,-73.796831,8160,Accessible,1931
+460,Line E Station 28,B DIVISION,E,Bronx,Zone 2,40.779404,-73.874595,12678,Not Accessible,1952
+461,Line E Station 29,B DIVISION,E,Staten Island,Zone 1,40.830795,-74.035616,45762,Not Accessible,2013
+462,Line E Station 30,B DIVISION,E,Bronx,Zone 2,40.785323,-73.809618,14948,Not Accessible,1965
+463,Line E Station 31,B DIVISION,E,Queens,Zone 2,40.67962,-73.933874,41329,Accessible,2002
+464,Line E Station 32,B DIVISION,E,Brooklyn,Zone 3,40.581802,-73.756623,14273,Not Accessible,1966
+465,Line E Station 33,B DIVISION,E,Manhattan,Zone 3,40.811234,-73.855044,35077,Not Accessible,1951
+466,Line E Station 34,B DIVISION,E,Queens,Zone 2,40.563505,-73.780453,39778,Accessible,1930
+467,Line E Station 35,B DIVISION,E,Brooklyn,Zone 2,40.85323,-73.780111,52907,Accessible,1939
+468,Line E Station 36,B DIVISION,E,Bronx,Zone 2,40.676833,-73.960429,20514,Not Accessible,2000
+469,Line E Station 37,B DIVISION,E,Queens,Zone 2,40.858473,-74.040495,38195,Accessible,1944
+470,Line E Station 38,B DIVISION,E,Staten Island,Zone 1,40.596769,-74.031133,47413,Not Accessible,1912
+471,Line E Station 39,B DIVISION,E,Bronx,Zone 2,40.829502,-74.049897,12450,Accessible,2009
+472,Line E Station 40,B DIVISION,E,Queens,Zone 3,40.68308,-73.829341,22796,Accessible,1969
+473,Line E Station 41,B DIVISION,E,Staten Island,Zone 2,40.694288,-74.007856,17619,Accessible,1950
+474,Line E Station 42,B DIVISION,E,Manhattan,Zone 1,40.755964,-73.904846,27498,Accessible,1976
+475,Line E Station 43,B DIVISION,E,Staten Island,Zone 3,40.732057,-73.984381,41396,Not Accessible,1926
+476,Line F Station 01,B DIVISION,F,Manhattan,Zone 1,40.582263,-73.824631,2719,Not Accessible,2007
+477,Line F Station 02,B DIVISION,F,Bronx,Zone 3,40.796681,-74.038917,29426,Not Accessible,1956
+478,Line F Station 03,B DIVISION,F,Bronx,Zone 1,40.621532,-73.889144,20758,Accessible,1934
+479,Line F Station 04,B DIVISION,F,Manhattan,Zone 1,40.625117,-73.804317,59232,Not Accessible,1920
+480,Line F Station 05,B DIVISION,F,Staten Island,Zone 1,40.792032,-73.969544,7524,Accessible,2011
+481,Line F Station 06,B DIVISION,F,Manhattan,Zone 3,40.594331,-74.046358,8508,Accessible,1961
+482,Line F Station 07,B DIVISION,F,Manhattan,Zone 2,40.592404,-73.789272,23810,Not Accessible,1961
+483,Line F Station 08,B DIVISION,F,Staten Island,Zone 3,40.833043,-73.804531,12043,Accessible,1941
+484,Line F Station 09,B DIVISION,F,Manhattan,Zone 3,40.876682,-74.010063,29780,Not Accessible,1994
+485,Line F Station 10,B DIVISION,F,Manhattan,Zone 1,40.880032,-73.903895,25706,Accessible,1949
+486,Line F Station 11,B DIVISION,F,Manhattan,Zone 2,40.876911,-73.834092,49724,Not Accessible,1982
+487,Line F Station 12,B DIVISION,F,Queens,Zone 3,40.670251,-73.820184,52376,Accessible,1909
+488,Line F Station 13,B DIVISION,F,Queens,Zone 2,40.602913,-73.811124,30928,Not Accessible,1975
+489,Line F Station 14,B DIVISION,F,Bronx,Zone 2,40.579106,-73.836968,23852,Not Accessible,1941
+490,Line F Station 15,B DIVISION,F,Bronx,Zone 3,40.59693,-73.908599,60454,Accessible,1933
+491,Line F Station 16,B DIVISION,F,Bronx,Zone 2,40.576905,-74.011091,8330,Not Accessible,1996
+492,Line F Station 17,B DIVISION,F,Staten Island,Zone 3,40.742475,-73.89417,58050,Not Accessible,1941
+493,Line F Station 18,B DIVISION,F,Queens,Zone 3,40.696954,-73.863009,4049,Accessible,1982
+494,Line F Station 19,B DIVISION,F,Brooklyn,Zone 2,40.753968,-73.768658,44990,Not Accessible,1988
+495,Line F Station 20,B DIVISION,F,Manhattan,Zone 2,40.638208,-74.038509,35455,Not Accessible,1978
+496,Line F Station 21,B DIVISION,F,Queens,Zone 3,40.862914,-74.014812,52354,Not Accessible,1934
+497,Line F Station 22,B DIVISION,F,Bronx,Zone 3,40.853406,-74.019305,11724,Accessible,1956
+498,Line F Station 23,B DIVISION,F,Manhattan,Zone 1,40.562045,-73.90295,14902,Accessible,1986
+499,Line F Station 24,B DIVISION,F,Staten Island,Zone 1,40.632073,-73.848519,42348,Not Accessible,1974
+500,Line F Station 25,B DIVISION,F,Queens,Zone 2,40.820971,-73.824558,17190,Not Accessible,1980
+501,Line F Station 26,B DIVISION,F,Brooklyn,Zone 1,40.578397,-73.921717,44057,Accessible,1986
+502,Line F Station 27,B DIVISION,F,Brooklyn,Zone 3,40.570135,-73.891805,41121,Accessible,1968
+503,Line F Station 28,B DIVISION,F,Bronx,Zone 2,40.760521,-73.931114,27439,Not Accessible,1971
+504,Line F Station 29,B DIVISION,F,Queens,Zone 1,40.804641,-73.848805,31916,Accessible,1926
+505,Line F Station 30,B DIVISION,F,Brooklyn,Zone 1,40.698035,-73.790565,52964,Accessible,1910
+506,Line F Station 31,B DIVISION,F,Queens,Zone 3,40.603892,-73.882746,26917,Not Accessible,2012
+507,Line F Station 32,B DIVISION,F,Bronx,Zone 3,40.829567,-74.003987,45730,Not Accessible,1982
+508,Line F Station 33,B DIVISION,F,Brooklyn,Zone 1,40.678516,-73.997121,11039,Accessible,1982
+509,Line F Station 34,B DIVISION,F,Manhattan,Zone 2,40.660289,-74.017514,8114,Accessible,1908
+510,Line F Station 35,B DIVISION,F,Brooklyn,Zone 3,40.576259,-73.990984,63264,Not Accessible,1981
+511,Line F Station 36,B DIVISION,F,Manhattan,Zone 1,40.871175,-73.89219,33869,Accessible,1934
+512,Line F Station 37,B DIVISION,F,Brooklyn,Zone 3,40.615836,-73.825355,31354,Accessible,2007
+513,Line F Station 38,B DIVISION,F,Queens,Zone 2,40.583866,-73.909725,63298,Not Accessible,1973
+514,Line G Station 01,B DIVISION,G,Manhattan,Zone 1,40.629798,-73.999652,40751,Not Accessible,1989
+515,Line G Station 02,B DIVISION,G,Queens,Zone 2,40.637077,-74.034949,19652,Not Accessible,1906
+516,Line G Station 03,B DIVISION,G,Brooklyn,Zone 2,40.623259,-74.038776,34465,Not Accessible,1953
+517,Line G Station 04,B DIVISION,G,Bronx,Zone 1,40.651802,-73.935679,62535,Not Accessible,1934
+518,Line G Station 05,B DIVISION,G,Manhattan,Zone 2,40.595106,-74.005409,25022,Not Accessible,1916
+519,Line G Station 06,B DIVISION,G,Manhattan,Zone 2,40.676693,-73.803632,10777,Not Accessible,1919
+520,Line G Station 07,B DIVISION,G,Staten Island,Zone 3,40.613592,-73.897435,64729,Not Accessible,1958
+521,Line G Station 08,B DIVISION,G,Queens,Zone 2,40.562207,-73.950627,33964,Accessible,2000
+522,Line G Station 09,B DIVISION,G,Queens,Zone 2,40.631927,-73.828134,38433,Not Accessible,1919
+523,Line G Station 10,B DIVISION,G,Queens,Zone 2,40.837717,-73.954201,46950,Not Accessible,1926
+524,Line G Station 11,B DIVISION,G,Brooklyn,Zone 1,40.669202,-73.961521,16477,Accessible,1996
+525,Line G Station 12,B DIVISION,G,Queens,Zone 1,40.883362,-74.006363,64323,Not Accessible,2001
+526,Line G Station 13,B DIVISION,G,Staten Island,Zone 2,40.720036,-73.756092,17651,Not Accessible,1948
+527,Line G Station 14,B DIVISION,G,Manhattan,Zone 3,40.601665,-74.011866,51244,Not Accessible,1917
+528,Line G Station 15,B DIVISION,G,Manhattan,Zone 3,40.551939,-73.781779,42373,Not Accessible,1997
+529,Line G Station 16,B DIVISION,G,Queens,Zone 2,40.591908,-73.935153,4944,Not Accessible,1978
+530,Line G Station 17,B DIVISION,G,Queens,Zone 2,40.552135,-73.868637,29531,Accessible,1973
+531,Line G Station 18,B DIVISION,G,Bronx,Zone 1,40.750776,-73.755734,16511,Not Accessible,1962
+532,Line G Station 19,B DIVISION,G,Staten Island,Zone 2,40.780103,-73.784598,11963,Not Accessible,1922
+533,Line G Station 20,B DIVISION,G,Staten Island,Zone 1,40.683209,-74.007836,7957,Accessible,1973
+534,Line G Station 21,B DIVISION,G,Manhattan,Zone 3,40.726953,-73.877453,8669,Accessible,1985
+535,Line G Station 22,B DIVISION,G,Staten Island,Zone 3,40.627262,-73.770305,41662,Accessible,1950
+536,Line G Station 23,B DIVISION,G,Staten Island,Zone 3,40.852091,-74.04072,29899,Not Accessible,1946
+537,Line G Station 24,B DIVISION,G,Queens,Zone 1,40.818482,-73.878139,43591,Not Accessible,1987
+538,Line G Station 25,B DIVISION,G,Staten Island,Zone 3,40.773646,-73.930876,22682,Not Accessible,1943
+539,Line G Station 26,B DIVISION,G,Bronx,Zone 1,40.614759,-73.914805,43658,Accessible,2011
+540,Line G Station 27,B DIVISION,G,Bronx,Zone 3,40.564269,-73.780674,13372,Not Accessible,1954
+541,Line G Station 28,B DIVISION,G,Bronx,Zone 2,40.666407,-73.795697,44824,Accessible,1917
+542,Line G Station 29,B DIVISION,G,Manhattan,Zone 1,40.807037,-73.951848,55011,Accessible,1925
+543,Line G Station 30,B DIVISION,G,Queens,Zone 2,40.776312,-73.948008,6017,Not Accessible,1924
+544,Line G Station 31,B DIVISION,G,Manhattan,Zone 2,40.821202,-73.815143,11387,Accessible,2014
+545,Line G Station 32,B DIVISION,G,Manhattan,Zone 3,40.893558,-73.951521,37606,Not Accessible,1963
+546,Line G Station 33,B DIVISION,G,Brooklyn,Zone 1,40.863559,-73.919641,3964,Accessible,1919
+547,Line G Station 34,B DIVISION,G,Bronx,Zone 3,40.628318,-73.84887,63917,Not Accessible,1937
+548,Line G Station 35,B DIVISION,G,Brooklyn,Zone 2,40.559982,-73.899544,30427,Accessible,1924
+549,Line G Station 36,B DIVISION,G,Staten Island,Zone 3,40.878785,-73.774722,30328,Accessible,2012
+550,Line G Station 37,B DIVISION,G,Queens,Zone 1,40.636406,-73.824962,42739,Not Accessible,2000
+551,Line G Station 38,B DIVISION,G,Brooklyn,Zone 3,40.695564,-73.88272,32098,Accessible,1989
+552,Line G Station 39,B DIVISION,G,Staten Island,Zone 1,40.550078,-73.936107,57796,Not Accessible,1970
+553,Line G Station 40,B DIVISION,G,Brooklyn,Zone 1,40.774514,-73.759667,45891,Accessible,1908
+554,Line G Station 41,B DIVISION,G,Manhattan,Zone 1,40.664208,-73.903297,44920,Not Accessible,1931
+555,Line JZ Station 01,B DIVISION,JZ,Brooklyn,Zone 3,40.869166,-73.890362,12951,Accessible,1981
+556,Line JZ Station 02,B DIVISION,JZ,Brooklyn,Zone 3,40.820992,-73.86865,24131,Accessible,1909
+557,Line JZ Station 03,B DIVISION,JZ,Manhattan,Zone 3,40.712529,-73.916715,15808,Accessible,1916
+558,Line JZ Station 04,B DIVISION,JZ,Bronx,Zone 3,40.815211,-73.899366,61573,Not Accessible,1949
+559,Line JZ Station 05,B DIVISION,JZ,Bronx,Zone 1,40.887756,-73.829926,62682,Accessible,1950
+560,Line JZ Station 06,B DIVISION,JZ,Manhattan,Zone 1,40.587066,-73.757613,42487,Accessible,1971
+561,Line JZ Station 07,B DIVISION,JZ,Bronx,Zone 2,40.714462,-73.832187,41840,Not Accessible,1983
+562,Line JZ Station 08,B DIVISION,JZ,Manhattan,Zone 3,40.608346,-73.782216,8757,Not Accessible,1935
+563,Line JZ Station 09,B DIVISION,JZ,Staten Island,Zone 3,40.68173,-73.929038,19140,Not Accessible,1998
+564,Line JZ Station 10,B DIVISION,JZ,Bronx,Zone 1,40.721658,-73.772819,57568,Not Accessible,1906
+565,Line JZ Station 11,B DIVISION,JZ,Manhattan,Zone 2,40.886798,-73.979916,9597,Not Accessible,1962
+566,Line JZ Station 12,B DIVISION,JZ,Manhattan,Zone 1,40.633767,-73.925999,10591,Accessible,1964
+567,Line JZ Station 13,B DIVISION,JZ,Brooklyn,Zone 1,40.849508,-73.900926,50936,Not Accessible,1933
+568,Line JZ Station 14,B DIVISION,JZ,Bronx,Zone 1,40.810709,-73.910617,4537,Not Accessible,1913
+569,Line JZ Station 15,B DIVISION,JZ,Staten Island,Zone 3,40.562893,-73.917224,41074,Accessible,1979
+570,Line JZ Station 16,B DIVISION,JZ,Staten Island,Zone 3,40.698131,-74.048712,3982,Not Accessible,1984
+571,Line JZ Station 17,B DIVISION,JZ,Staten Island,Zone 3,40.711925,-73.933938,3428,Not Accessible,1966
+572,Line JZ Station 18,B DIVISION,JZ,Brooklyn,Zone 3,40.683198,-73.803529,7678,Accessible,1911
+573,Line JZ Station 19,B DIVISION,JZ,Queens,Zone 3,40.778671,-73.796372,50984,Accessible,1987
+574,Line JZ Station 20,B DIVISION,JZ,Staten Island,Zone 2,40.556281,-73.966116,37857,Accessible,1996
+575,Line JZ Station 21,B DIVISION,JZ,Manhattan,Zone 3,40.674757,-73.958005,24675,Accessible,1927
+576,Line JZ Station 22,B DIVISION,JZ,Queens,Zone 3,40.565987,-73.908052,6081,Not Accessible,2000
+577,Line JZ Station 23,B DIVISION,JZ,Brooklyn,Zone 2,40.742083,-73.760871,33617,Not Accessible,2002
+578,Line JZ Station 24,B DIVISION,JZ,Manhattan,Zone 3,40.600895,-73.87966,4491,Not Accessible,1986
+579,Line JZ Station 25,B DIVISION,JZ,Queens,Zone 1,40.620005,-73.824089,35924,Accessible,1913
+580,Line JZ Station 26,B DIVISION,JZ,Queens,Zone 2,40.625838,-73.988716,60835,Not Accessible,1984
+581,Line JZ Station 27,B DIVISION,JZ,Bronx,Zone 1,40.583792,-73.867806,42796,Accessible,1942
+582,Line JZ Station 28,B DIVISION,JZ,Brooklyn,Zone 2,40.634271,-73.805065,43657,Accessible,1984
+583,Line JZ Station 29,B DIVISION,JZ,Bronx,Zone 1,40.896154,-74.030523,37421,Not Accessible,1971
+584,Line JZ Station 30,B DIVISION,JZ,Bronx,Zone 2,40.643968,-73.812869,41303,Accessible,2013
+585,Line JZ Station 31,B DIVISION,JZ,Queens,Zone 2,40.658671,-73.86193,8868,Not Accessible,1954
+586,Line JZ Station 32,B DIVISION,JZ,Queens,Zone 2,40.823396,-73.860529,27320,Not Accessible,1930
+587,Line JZ Station 33,B DIVISION,JZ,Brooklyn,Zone 1,40.661569,-73.950227,63515,Accessible,1951
+588,Line JZ Station 34,B DIVISION,JZ,Brooklyn,Zone 2,40.585664,-73.801749,38750,Accessible,1911
+589,Line JZ Station 35,B DIVISION,JZ,Manhattan,Zone 1,40.665557,-73.954012,12371,Accessible,2014
+590,Line JZ Station 36,B DIVISION,JZ,Manhattan,Zone 2,40.579099,-73.900489,39591,Accessible,1954
+591,Line JZ Station 37,B DIVISION,JZ,Brooklyn,Zone 2,40.643035,-74.018491,59195,Not Accessible,1995
+592,Line JZ Station 38,B DIVISION,JZ,Staten Island,Zone 2,40.648202,-73.956152,47169,Accessible,2015
+593,Line JZ Station 39,B DIVISION,JZ,Bronx,Zone 1,40.789628,-73.97656,42355,Not Accessible,1957
+594,Line JZ Station 40,B DIVISION,JZ,Queens,Zone 3,40.756908,-74.042535,3882,Accessible,1947
+595,Line JZ Station 41,B DIVISION,JZ,Bronx,Zone 2,40.67837,-74.014471,21709,Not Accessible,1907
+596,Line JZ Station 42,B DIVISION,JZ,Brooklyn,Zone 1,40.696148,-73.826008,7015,Not Accessible,1983
+597,Line JZ Station 43,B DIVISION,JZ,Bronx,Zone 1,40.773638,-73.974433,64556,Not Accessible,1958
+598,Line L Station 01,B DIVISION,L,Queens,Zone 1,40.836537,-73.890259,52346,Accessible,1945
+599,Line L Station 02,B DIVISION,L,Manhattan,Zone 2,40.738227,-74.028985,19648,Not Accessible,1985
+600,Line L Station 03,B DIVISION,L,Staten Island,Zone 2,40.673358,-73.975501,54668,Not Accessible,1937
+601,Line L Station 04,B DIVISION,L,Staten Island,Zone 3,40.816594,-73.96528,18717,Accessible,1990
+602,Line L Station 05,B DIVISION,L,Staten Island,Zone 1,40.635292,-74.023355,14899,Not Accessible,1956
+603,Line L Station 06,B DIVISION,L,Brooklyn,Zone 1,40.609429,-73.965294,6680,Accessible,1967
+604,Line L Station 07,B DIVISION,L,Bronx,Zone 1,40.866253,-73.770337,56978,Not Accessible,1999
+605,Line L Station 08,B DIVISION,L,Manhattan,Zone 2,40.690084,-73.881972,27505,Not Accessible,1970
+606,Line L Station 09,B DIVISION,L,Manhattan,Zone 2,40.596503,-73.958136,20165,Accessible,1905
+607,Line L Station 10,B DIVISION,L,Bronx,Zone 1,40.701485,-74.035564,54566,Accessible,1990
+608,Line L Station 11,B DIVISION,L,Manhattan,Zone 3,40.658935,-73.911352,24371,Not Accessible,1993
+609,Line L Station 12,B DIVISION,L,Bronx,Zone 2,40.801626,-73.913354,24680,Not Accessible,2002
+610,Line L Station 13,B DIVISION,L,Queens,Zone 3,40.625426,-73.853532,54299,Not Accessible,1977
+611,Line L Station 14,B DIVISION,L,Staten Island,Zone 1,40.605681,-74.042009,3048,Accessible,1966
+612,Line L Station 15,B DIVISION,L,Manhattan,Zone 3,40.751483,-73.974544,55520,Accessible,2000
+613,Line L Station 16,B DIVISION,L,Queens,Zone 2,40.695444,-73.795164,52065,Accessible,2009
+614,Line L Station 17,B DIVISION,L,Staten Island,Zone 2,40.728155,-74.02423,19256,Not Accessible,1916
+615,Line L Station 18,B DIVISION,L,Manhattan,Zone 3,40.676571,-73.970193,25103,Not Accessible,1915
+616,Line L Station 19,B DIVISION,L,Bronx,Zone 3,40.866765,-73.847798,16053,Not Accessible,1947
+617,Line L Station 20,B DIVISION,L,Brooklyn,Zone 1,40.65305,-73.856819,43204,Not Accessible,1952
+618,Line L Station 21,B DIVISION,L,Bronx,Zone 3,40.825623,-73.754205,42797,Accessible,1961
+619,Line L Station 22,B DIVISION,L,Staten Island,Zone 1,40.726143,-73.792982,58352,Accessible,2013
+620,Line L Station 23,B DIVISION,L,Queens,Zone 3,40.83699,-73.959155,64682,Not Accessible,1997
+621,Line L Station 24,B DIVISION,L,Bronx,Zone 3,40.821562,-73.962725,25708,Not Accessible,1933
+622,Line L Station 25,B DIVISION,L,Staten Island,Zone 3,40.574925,-73.778299,39471,Accessible,1931
+623,Line L Station 26,B DIVISION,L,Queens,Zone 2,40.614611,-73.802112,33063,Accessible,1919
+624,Line L Station 27,B DIVISION,L,Manhattan,Zone 2,40.757172,-73.846395,23594,Not Accessible,1916
+625,Line L Station 28,B DIVISION,L,Bronx,Zone 2,40.70286,-73.911853,50780,Not Accessible,1982
+626,Line L Station 29,B DIVISION,L,Bronx,Zone 1,40.555645,-73.90284,58561,Not Accessible,1931
+627,Line L Station 30,B DIVISION,L,Brooklyn,Zone 1,40.553084,-73.835953,44894,Not Accessible,2006
+628,Line L Station 31,B DIVISION,L,Brooklyn,Zone 1,40.848717,-73.926739,47709,Not Accessible,1965
+629,Line L Station 32,B DIVISION,L,Manhattan,Zone 2,40.755553,-73.816407,30657,Accessible,1941
+630,Line L Station 33,B DIVISION,L,Manhattan,Zone 3,40.791703,-73.889437,28708,Accessible,1909
+631,Line L Station 34,B DIVISION,L,Queens,Zone 1,40.606429,-73.916554,46483,Not Accessible,1991
+632,Line L Station 35,B DIVISION,L,Staten Island,Zone 2,40.686776,-73.970198,54846,Not Accessible,1989
+633,Line L Station 36,B DIVISION,L,Brooklyn,Zone 2,40.566038,-73.833493,57575,Accessible,1991
+634,Line L Station 37,B DIVISION,L,Bronx,Zone 3,40.896863,-73.97431,41593,Not Accessible,1949
+635,Line L Station 38,B DIVISION,L,Manhattan,Zone 1,40.839796,-73.802345,15204,Accessible,1995
+636,Line L Station 39,B DIVISION,L,Bronx,Zone 1,40.608675,-73.861868,59142,Accessible,1912
+637,Line L Station 40,B DIVISION,L,Staten Island,Zone 2,40.607096,-73.833415,48450,Accessible,1998
+638,Line L Station 41,B DIVISION,L,Brooklyn,Zone 2,40.882401,-73.80108,40182,Not Accessible,1960
+639,Line L Station 42,B DIVISION,L,Bronx,Zone 3,40.718592,-73.937441,30669,Not Accessible,1953
+640,Line M Station 01,B DIVISION,M,Bronx,Zone 2,40.622821,-73.885316,38013,Accessible,1913
+641,Line M Station 02,B DIVISION,M,Bronx,Zone 1,40.892236,-73.791854,19293,Not Accessible,1925
+642,Line M Station 03,B DIVISION,M,Bronx,Zone 1,40.862762,-73.819686,47554,Accessible,1967
+643,Line M Station 04,B DIVISION,M,Brooklyn,Zone 2,40.615202,-73.891797,5809,Not Accessible,1915
+644,Line M Station 05,B DIVISION,M,Staten Island,Zone 1,40.811314,-73.823431,61527,Not Accessible,1934
+645,Line M Station 06,B DIVISION,M,Manhattan,Zone 2,40.697834,-73.988652,43525,Not Accessible,1935
+646,Line M Station 07,B DIVISION,M,Queens,Zone 1,40.758182,-73.835249,5833,Accessible,1993
+647,Line M Station 08,B DIVISION,M,Manhattan,Zone 2,40.598349,-73.796565,35618,Not Accessible,1998
+648,Line M Station 09,B DIVISION,M,Manhattan,Zone 1,40.705685,-74.048156,27593,Not Accessible,1983
+649,Line M Station 10,B DIVISION,M,Queens,Zone 1,40.597006,-73.767116,58636,Not Accessible,1951
+650,Line M Station 11,B DIVISION,M,Queens,Zone 2,40.878081,-73.875879,9053,Not Accessible,1913
+651,Line M Station 12,B DIVISION,M,Queens,Zone 3,40.571438,-74.02707,14987,Accessible,1913
+652,Line M Station 13,B DIVISION,M,Staten Island,Zone 2,40.631386,-73.820225,50475,Accessible,1936
+653,Line M Station 14,B DIVISION,M,Bronx,Zone 1,40.899179,-73.780081,8758,Accessible,1904
+654,Line M Station 15,B DIVISION,M,Staten Island,Zone 1,40.552309,-73.841858,60706,Accessible,1912
+655,Line M Station 16,B DIVISION,M,Bronx,Zone 2,40.666313,-73.935868,49053,Accessible,1953
+656,Line M Station 17,B DIVISION,M,Brooklyn,Zone 2,40.886073,-73.838944,54056,Not Accessible,1958
+657,Line M Station 18,B DIVISION,M,Queens,Zone 3,40.871617,-73.752296,32692,Not Accessible,1975
+658,Line M Station 19,B DIVISION,M,Queens,Zone 2,40.858432,-73.828346,25209,Not Accessible,1977
+659,Line M Station 20,B DIVISION,M,Queens,Zone 3,40.773826,-73.869624,24906,Not Accessible,1946
+660,Line M Station 21,B DIVISION,M,Brooklyn,Zone 3,40.74732,-73.801615,23441,Not Accessible,1965
+661,Line M Station 22,B DIVISION,M,Bronx,Zone 2,40.680016,-73.947177,37933,Not Accessible,1929
+662,Line M Station 23,B DIVISION,M,Brooklyn,Zone 2,40.842609,-73.85255,15261,Accessible,2010
+663,Line M Station 24,B DIVISION,M,Bronx,Zone 2,40.618954,-74.013784,61648,Not Accessible,1905
+664,Line M Station 25,B DIVISION,M,Bronx,Zone 3,40.745532,-73.946334,27731,Accessible,1912
+665,Line M Station 26,B DIVISION,M,Staten Island,Zone 2,40.703141,-73.95318,50775,Accessible,1985
+666,Line M Station 27,B DIVISION,M,Brooklyn,Zone 2,40.762133,-73.82091,39442,Accessible,1930
+667,Line M Station 28,B DIVISION,M,Staten Island,Zone 2,40.723804,-73.765037,5210,Accessible,1975
+668,Line M Station 29,B DIVISION,M,Queens,Zone 2,40.779247,-73.964234,4188,Not Accessible,2009
+669,Line M Station 30,B DIVISION,M,Manhattan,Zone 3,40.702368,-74.011767,48862,Not Accessible,1937
+670,Line M Station 31,B DIVISION,M,Manhattan,Zone 2,40.893885,-73.87993,46060,Not Accessible,1959
+671,Line M Station 32,B DIVISION,M,Bronx,Zone 1,40.787519,-73.955835,36855,Not Accessible,1907
+672,Line M Station 33,B DIVISION,M,Brooklyn,Zone 2,40.60197,-73.800883,23535,Accessible,1989
+673,Line M Station 34,B DIVISION,M,Staten Island,Zone 3,40.552577,-73.962113,13983,Accessible,2006
+674,Line M Station 35,B DIVISION,M,Queens,Zone 1,40.584194,-73.912933,59010,Accessible,1955
+675,Line M Station 36,B DIVISION,M,Bronx,Zone 1,40.814567,-73.83753,43870,Accessible,1920
+676,Line M Station 37,B DIVISION,M,Staten Island,Zone 2,40.883723,-73.974399,8046,Accessible,1935
+677,Line M Station 38,B DIVISION,M,Brooklyn,Zone 2,40.564801,-74.026544,36755,Not Accessible,2014
+678,Line M Station 39,B DIVISION,M,Manhattan,Zone 2,40.770369,-74.033492,57851,Not Accessible,1921
+679,Line M Station 40,B DIVISION,M,Brooklyn,Zone 2,40.727851,-73.796711,35255,Accessible,1919
+680,Line N Station 01,B DIVISION,N,Queens,Zone 2,40.60833,-73.763629,44298,Not Accessible,1924
+681,Line N Station 02,B DIVISION,N,Staten Island,Zone 1,40.824818,-73.87719,23588,Accessible,1976
+682,Line N Station 03,B DIVISION,N,Staten Island,Zone 3,40.646697,-73.925305,4596,Not Accessible,1906
+683,Line N Station 04,B DIVISION,N,Queens,Zone 1,40.767005,-73.818174,55737,Not Accessible,2010
+684,Line N Station 05,B DIVISION,N,Brooklyn,Zone 2,40.71999,-73.876282,3464,Not Accessible,2002
+685,Line N Station 06,B DIVISION,N,Bronx,Zone 3,40.830664,-73.840429,19283,Not Accessible,1933
+686,Line N Station 07,B DIVISION,N,Queens,Zone 2,40.726876,-73.839343,47086,Accessible,1950
+687,Line N Station 08,B DIVISION,N,Queens,Zone 1,40.767879,-73.921663,45310,Not Accessible,1911
+688,Line N Station 09,B DIVISION,N,Manhattan,Zone 2,40.686691,-73.842324,36380,Accessible,1988
+689,Line N Station 10,B DIVISION,N,Queens,Zone 1,40.806786,-74.036203,58818,Not Accessible,1967
+690,Line N Station 11,B DIVISION,N,Queens,Zone 3,40.802021,-73.779038,13057,Not Accessible,1918
+691,Line N Station 12,B DIVISION,N,Queens,Zone 2,40.639317,-74.022828,43791,Not Accessible,1943
+692,Line N Station 13,B DIVISION,N,Bronx,Zone 2,40.590979,-73.782171,51219,Accessible,1967
+693,Line N Station 14,B DIVISION,N,Staten Island,Zone 1,40.662479,-73.980208,59478,Accessible,2006
+694,Line N Station 15,B DIVISION,N,Brooklyn,Zone 3,40.760938,-73.979479,58254,Accessible,1935
+695,Line N Station 16,B DIVISION,N,Manhattan,Zone 3,40.70679,-73.790804,52694,Not Accessible,1989
+696,Line N Station 17,B DIVISION,N,Bronx,Zone 2,40.872393,-73.967842,23784,Accessible,1977
+697,Line N Station 18,B DIVISION,N,Queens,Zone 3,40.764762,-74.001065,27257,Accessible,1991
+698,Line N Station 19,B DIVISION,N,Staten Island,Zone 1,40.6145,-73.875497,53652,Accessible,1982
+699,Line N Station 20,B DIVISION,N,Staten Island,Zone 1,40.646905,-73.929209,28287,Not Accessible,1909
+700,Line N Station 21,B DIVISION,N,Brooklyn,Zone 1,40.580863,-73.840463,19666,Accessible,1954
+701,Line N Station 22,B DIVISION,N,Manhattan,Zone 2,40.580215,-73.95549,18288,Accessible,1921
+702,Line N Station 23,B DIVISION,N,Brooklyn,Zone 3,40.614956,-73.831933,15617,Not Accessible,1983
+703,Line N Station 24,B DIVISION,N,Queens,Zone 2,40.884227,-74.00622,6632,Not Accessible,1961
+704,Line N Station 25,B DIVISION,N,Brooklyn,Zone 3,40.631763,-74.040794,44351,Not Accessible,2002
+705,Line N Station 26,B DIVISION,N,Brooklyn,Zone 1,40.790162,-73.752376,17845,Accessible,1995
+706,Line N Station 27,B DIVISION,N,Bronx,Zone 2,40.55225,-73.80751,56124,Accessible,1973
+707,Line N Station 28,B DIVISION,N,Queens,Zone 2,40.817308,-74.019015,12139,Not Accessible,1982
+708,Line N Station 29,B DIVISION,N,Brooklyn,Zone 1,40.885942,-73.927223,2193,Not Accessible,1912
+709,Line N Station 30,B DIVISION,N,Staten Island,Zone 1,40.715119,-73.96445,47907,Accessible,1971
+710,Line N Station 31,B DIVISION,N,Queens,Zone 2,40.845859,-73.939245,39791,Not Accessible,1934
+711,Line N Station 32,B DIVISION,N,Queens,Zone 2,40.731165,-73.935513,24177,Not Accessible,2007
+712,Line N Station 33,B DIVISION,N,Staten Island,Zone 1,40.682855,-73.956235,16106,Not Accessible,1927
+713,Line N Station 34,B DIVISION,N,Staten Island,Zone 3,40.755298,-73.963566,5099,Not Accessible,1941
+714,Line N Station 35,B DIVISION,N,Manhattan,Zone 3,40.721419,-73.809814,13872,Accessible,1967
+715,Line N Station 36,B DIVISION,N,Manhattan,Zone 2,40.88041,-74.030129,9600,Accessible,2005
+716,Line N Station 37,B DIVISION,N,Queens,Zone 2,40.72651,-73.79159,47056,Not Accessible,1910
+717,Line N Station 38,B DIVISION,N,Bronx,Zone 3,40.882841,-73.957386,14147,Not Accessible,1906
+718,Line Q Station 01,B DIVISION,Q,Manhattan,Zone 2,40.699233,-73.898995,4799,Not Accessible,1926
+719,Line Q Station 02,B DIVISION,Q,Bronx,Zone 2,40.691038,-73.876883,42849,Accessible,1939
+720,Line Q Station 03,B DIVISION,Q,Brooklyn,Zone 2,40.887325,-73.860097,39457,Accessible,1953
+721,Line Q Station 04,B DIVISION,Q,Queens,Zone 3,40.793158,-74.035641,4847,Accessible,1963
+722,Line Q Station 05,B DIVISION,Q,Bronx,Zone 1,40.696183,-73.77335,38689,Not Accessible,1979
+723,Line Q Station 06,B DIVISION,Q,Queens,Zone 2,40.558932,-73.79514,55595,Accessible,1961
+724,Line Q Station 07,B DIVISION,Q,Brooklyn,Zone 3,40.580227,-73.982831,53054,Not Accessible,1958
+725,Line Q Station 08,B DIVISION,Q,Bronx,Zone 3,40.810146,-73.775196,17376,Not Accessible,1965
+726,Line Q Station 09,B DIVISION,Q,Queens,Zone 3,40.838077,-73.861392,60028,Accessible,1942
+727,Line Q Station 10,B DIVISION,Q,Queens,Zone 3,40.840508,-73.789085,7647,Accessible,1915
+728,Line Q Station 11,B DIVISION,Q,Queens,Zone 3,40.869251,-73.882904,55711,Accessible,1995
+729,Line Q Station 12,B DIVISION,Q,Staten Island,Zone 3,40.635197,-73.813679,20209,Not Accessible,2004
+730,Line Q Station 13,B DIVISION,Q,Bronx,Zone 2,40.663212,-73.937697,57215,Not Accessible,1984
+731,Line Q Station 14,B DIVISION,Q,Queens,Zone 2,40.675026,-73.84492,55255,Not Accessible,1956
+732,Line Q Station 15,B DIVISION,Q,Brooklyn,Zone 1,40.605692,-73.803124,56433,Not Accessible,1940
+733,Line Q Station 16,B DIVISION,Q,Brooklyn,Zone 3,40.85949,-73.832561,48189,Accessible,1941
+734,Line Q Station 17,B DIVISION,Q,Manhattan,Zone 2,40.678006,-73.812293,42078,Not Accessible,1964
+735,Line Q Station 18,B DIVISION,Q,Staten Island,Zone 1,40.746727,-73.810746,32721,Accessible,1945
+736,Line Q Station 19,B DIVISION,Q,Bronx,Zone 3,40.894406,-73.853055,43207,Accessible,2007
+737,Line Q Station 20,B DIVISION,Q,Bronx,Zone 2,40.640883,-73.887031,23636,Accessible,1926
+738,Line Q Station 21,B DIVISION,Q,Staten Island,Zone 2,40.734332,-74.034264,28344,Accessible,1935
+739,Line Q Station 22,B DIVISION,Q,Manhattan,Zone 2,40.729523,-74.033982,61990,Accessible,1967
+740,Line Q Station 23,B DIVISION,Q,Brooklyn,Zone 1,40.551487,-73.813175,42748,Accessible,1984
+741,Line Q Station 24,B DIVISION,Q,Queens,Zone 1,40.551325,-73.821755,62055,Not Accessible,1967
+742,Line Q Station 25,B DIVISION,Q,Bronx,Zone 3,40.731119,-74.01866,16956,Not Accessible,1938
+743,Line Q Station 26,B DIVISION,Q,Bronx,Zone 1,40.887291,-73.782902,20057,Not Accessible,1932
+744,Line Q Station 27,B DIVISION,Q,Bronx,Zone 1,40.589,-74.026518,19928,Accessible,1947
+745,Line Q Station 28,B DIVISION,Q,Brooklyn,Zone 1,40.790561,-74.003209,44113,Not Accessible,1906
+746,Line Q Station 29,B DIVISION,Q,Queens,Zone 3,40.638826,-73.813029,27103,Not Accessible,1947
+747,Line Q Station 30,B DIVISION,Q,Manhattan,Zone 2,40.87642,-73.786871,54599,Accessible,1926
+748,Line Q Station 31,B DIVISION,Q,Queens,Zone 3,40.592306,-73.920554,47993,Not Accessible,1998
+749,Line Q Station 32,B DIVISION,Q,Manhattan,Zone 2,40.561186,-74.004485,15453,Accessible,1933
+750,Line Q Station 33,B DIVISION,Q,Brooklyn,Zone 1,40.895328,-73.759286,31547,Not Accessible,1967
+751,Line Q Station 34,B DIVISION,Q,Queens,Zone 3,40.587294,-73.82479,49431,Not Accessible,1967
+752,Line Q Station 35,B DIVISION,Q,Manhattan,Zone 3,40.657817,-73.976444,49840,Not Accessible,1945
+753,Line Q Station 36,B DIVISION,Q,Staten Island,Zone 1,40.615882,-74.02433,34408,Accessible,2009
+754,Line Q Station 37,B DIVISION,Q,Bronx,Zone 2,40.604922,-73.874665,2159,Accessible,1976
+755,Line Q Station 38,B DIVISION,Q,Staten Island,Zone 3,40.59037,-74.031368,51804,Not Accessible,1991
+756,Line Q Station 39,B DIVISION,Q,Queens,Zone 3,40.87246,-73.895942,56800,Not Accessible,1995
+757,Line Q Station 40,B DIVISION,Q,Queens,Zone 2,40.772968,-73.861934,19874,Not Accessible,1970
+758,Line Q Station 41,B DIVISION,Q,Brooklyn,Zone 2,40.719321,-73.78291,49181,Accessible,1978
+759,Line Q Station 42,B DIVISION,Q,Brooklyn,Zone 2,40.64128,-73.94711,35399,Not Accessible,2013
+760,Line Q Station 43,B DIVISION,Q,Staten Island,Zone 1,40.569555,-73.959104,11381,Accessible,1939
+761,Line Q Station 44,B DIVISION,Q,Bronx,Zone 2,40.554415,-74.041536,27748,Not Accessible,1983
+762,Line R Station 01,B DIVISION,R,Manhattan,Zone 3,40.77942,-73.955763,64460,Not Accessible,2012
+763,Line R Station 02,B DIVISION,R,Manhattan,Zone 3,40.624307,-74.00348,4290,Accessible,2000
+764,Line R Station 03,B DIVISION,R,Queens,Zone 1,40.551268,-73.838337,29133,Accessible,1969
+765,Line R Station 04,B DIVISION,R,Bronx,Zone 3,40.587557,-74.032508,51211,Accessible,1976
+766,Line R Station 05,B DIVISION,R,Staten Island,Zone 3,40.579278,-73.98305,41256,Accessible,1977
+767,Line R Station 06,B DIVISION,R,Bronx,Zone 2,40.69085,-73.944358,47023,Accessible,1962
+768,Line R Station 07,B DIVISION,R,Manhattan,Zone 1,40.731272,-73.776038,16830,Not Accessible,1989
+769,Line R Station 08,B DIVISION,R,Queens,Zone 1,40.785009,-73.856965,27051,Not Accessible,1957
+770,Line R Station 09,B DIVISION,R,Manhattan,Zone 3,40.899824,-73.919276,10565,Not Accessible,1994
+771,Line R Station 10,B DIVISION,R,Bronx,Zone 3,40.557781,-73.845132,43128,Accessible,1986
+772,Line R Station 11,B DIVISION,R,Queens,Zone 2,40.832318,-73.873053,10582,Not Accessible,1932
+773,Line R Station 12,B DIVISION,R,Manhattan,Zone 3,40.824026,-73.925214,58929,Not Accessible,1965
+774,Line R Station 13,B DIVISION,R,Staten Island,Zone 2,40.791356,-73.790707,59940,Accessible,1922
+775,Line R Station 14,B DIVISION,R,Queens,Zone 2,40.82938,-73.872967,12431,Not Accessible,1925
+776,Line R Station 15,B DIVISION,R,Staten Island,Zone 1,40.671417,-73.777277,6415,Accessible,1942
+777,Line R Station 16,B DIVISION,R,Staten Island,Zone 1,40.577055,-73.916857,45158,Accessible,1935
+778,Line R Station 17,B DIVISION,R,Bronx,Zone 3,40.65335,-73.751666,9354,Not Accessible,1957
+779,Line R Station 18,B DIVISION,R,Bronx,Zone 2,40.795346,-73.901971,22742,Not Accessible,1961
+780,Line R Station 19,B DIVISION,R,Staten Island,Zone 1,40.89014,-73.947109,6828,Accessible,1976
+781,Line R Station 20,B DIVISION,R,Queens,Zone 3,40.639798,-73.876581,16000,Accessible,1936
+782,Line R Station 21,B DIVISION,R,Manhattan,Zone 2,40.769586,-73.812845,14276,Accessible,1944
+783,Line R Station 22,B DIVISION,R,Brooklyn,Zone 2,40.72102,-74.01855,54543,Accessible,1932
+784,Line R Station 23,B DIVISION,R,Manhattan,Zone 2,40.77612,-73.872014,17855,Not Accessible,1931
+785,Line R Station 24,B DIVISION,R,Manhattan,Zone 1,40.827891,-73.948815,48701,Not Accessible,1964
+786,Line R Station 25,B DIVISION,R,Staten Island,Zone 3,40.7535,-73.957442,28377,Accessible,1957
+787,Line R Station 26,B DIVISION,R,Queens,Zone 1,40.776176,-73.894112,4068,Accessible,1915
+788,Line R Station 27,B DIVISION,R,Brooklyn,Zone 2,40.801699,-73.751219,48284,Accessible,1982
+789,Line R Station 28,B DIVISION,R,Bronx,Zone 3,40.658562,-73.992748,53159,Accessible,1996
+790,Line R Station 29,B DIVISION,R,Brooklyn,Zone 2,40.666312,-73.886114,35399,Not Accessible,2000
+791,Line R Station 30,B DIVISION,R,Queens,Zone 3,40.825154,-73.98005,49421,Accessible,1937
+792,Line R Station 31,B DIVISION,R,Staten Island,Zone 3,40.555662,-73.766638,19688,Accessible,1925
+793,Line R Station 32,B DIVISION,R,Brooklyn,Zone 2,40.632541,-73.812057,5991,Not Accessible,1976
+794,Line R Station 33,B DIVISION,R,Brooklyn,Zone 2,40.760151,-73.801172,12046,Accessible,1947
+795,Line R Station 34,B DIVISION,R,Manhattan,Zone 1,40.726949,-73.776045,61508,Not Accessible,1908
+796,Line R Station 35,B DIVISION,R,Staten Island,Zone 2,40.683594,-73.974227,58193,Not Accessible,1980
+797,Line R Station 36,B DIVISION,R,Brooklyn,Zone 1,40.622182,-73.750494,36174,Not Accessible,2013
+798,Line R Station 37,B DIVISION,R,Manhattan,Zone 1,40.720591,-73.950227,44506,Not Accessible,2002
+799,Line R Station 38,B DIVISION,R,Bronx,Zone 2,40.89769,-73.784023,29190,Not Accessible,1933
+800,Line S 42nd Station 01,A DIVISION,S 42nd,Brooklyn,Zone 3,40.73491,-74.021034,22441,Accessible,1913
+801,Line S 42nd Station 02,A DIVISION,S 42nd,Manhattan,Zone 3,40.833986,-74.047796,55417,Accessible,1911
+802,Line S 42nd Station 03,A DIVISION,S 42nd,Staten Island,Zone 3,40.591054,-73.830581,34763,Not Accessible,1998
+803,Line S 42nd Station 04,A DIVISION,S 42nd,Queens,Zone 1,40.820081,-73.977842,58080,Not Accessible,1965
+804,Line S 42nd Station 05,A DIVISION,S 42nd,Brooklyn,Zone 3,40.622007,-73.870125,39144,Not Accessible,1968
+805,Line S 42nd Station 06,A DIVISION,S 42nd,Bronx,Zone 2,40.76607,-73.921575,37059,Accessible,2013
+806,Line S 42nd Station 07,A DIVISION,S 42nd,Bronx,Zone 3,40.862412,-73.944774,25355,Accessible,1916
+807,Line S 42nd Station 08,A DIVISION,S 42nd,Queens,Zone 2,40.815787,-73.777509,15428,Not Accessible,1962
+808,Line S 42nd Station 09,A DIVISION,S 42nd,Manhattan,Zone 3,40.859046,-73.750393,31231,Accessible,1917
+809,Line S 42nd Station 10,A DIVISION,S 42nd,Queens,Zone 3,40.752246,-73.981598,8143,Not Accessible,2013
+810,Line S 42nd Station 11,A DIVISION,S 42nd,Queens,Zone 2,40.78338,-73.86317,37186,Accessible,2008
+811,Line S 42nd Station 12,A DIVISION,S 42nd,Brooklyn,Zone 3,40.668027,-73.751958,60849,Accessible,1955
+812,Line S 42nd Station 13,A DIVISION,S 42nd,Manhattan,Zone 3,40.551582,-73.780409,59580,Not Accessible,1965
+813,Line S 42nd Station 14,A DIVISION,S 42nd,Brooklyn,Zone 3,40.572464,-73.906176,45505,Accessible,1972
+814,Line S 42nd Station 15,A DIVISION,S 42nd,Staten Island,Zone 3,40.656566,-73.854884,64417,Not Accessible,1939
+815,Line S 42nd Station 16,A DIVISION,S 42nd,Brooklyn,Zone 3,40.840855,-73.847772,5633,Accessible,1950
+816,Line S 42nd Station 17,A DIVISION,S 42nd,Manhattan,Zone 3,40.76718,-74.03738,14690,Accessible,1962
+817,Line S 42nd Station 18,A DIVISION,S 42nd,Brooklyn,Zone 2,40.630148,-74.018986,52816,Not Accessible,1932
+818,Line S 42nd Station 19,A DIVISION,S 42nd,Brooklyn,Zone 2,40.666269,-73.907661,33847,Not Accessible,1980
+819,Line S 42nd Station 20,A DIVISION,S 42nd,Queens,Zone 3,40.882109,-73.961578,43506,Not Accessible,1926
+820,Line S 42nd Station 21,A DIVISION,S 42nd,Manhattan,Zone 2,40.5726,-73.818483,51516,Not Accessible,1997
+821,Line S 42nd Station 22,A DIVISION,S 42nd,Bronx,Zone 2,40.64489,-73.913762,20135,Not Accessible,1920
+822,Line S 42nd Station 23,A DIVISION,S 42nd,Queens,Zone 3,40.669229,-73.770644,7924,Accessible,1982
+823,Line S 42nd Station 24,A DIVISION,S 42nd,Staten Island,Zone 3,40.738242,-74.010647,52949,Not Accessible,1971
+824,Line S 42nd Station 25,A DIVISION,S 42nd,Staten Island,Zone 2,40.732107,-74.033593,29319,Not Accessible,1999
+825,Line S 42nd Station 26,A DIVISION,S 42nd,Bronx,Zone 2,40.623043,-73.810701,13882,Accessible,1914
+826,Line S 42nd Station 27,A DIVISION,S 42nd,Staten Island,Zone 3,40.836276,-73.846958,60481,Not Accessible,1956
+827,Line S 42nd Station 28,A DIVISION,S 42nd,Manhattan,Zone 2,40.758273,-73.76844,3035,Not Accessible,1971
+828,Line S 42nd Station 29,A DIVISION,S 42nd,Manhattan,Zone 3,40.624671,-73.900472,63688,Accessible,1956
+829,Line S 42nd Station 30,A DIVISION,S 42nd,Brooklyn,Zone 1,40.661473,-74.022661,3817,Accessible,1961
+830,Line S 42nd Station 31,A DIVISION,S 42nd,Queens,Zone 3,40.687402,-73.930164,12312,Not Accessible,1973
+831,Line S 42nd Station 32,A DIVISION,S 42nd,Bronx,Zone 1,40.847807,-73.856867,37121,Accessible,1908
+832,Line S 42nd Station 33,A DIVISION,S 42nd,Staten Island,Zone 3,40.695919,-73.899655,50242,Accessible,1925
+833,Line S 42nd Station 34,A DIVISION,S 42nd,Brooklyn,Zone 3,40.563356,-73.82264,19832,Not Accessible,1941
+834,Line S 42nd Station 35,A DIVISION,S 42nd,Manhattan,Zone 2,40.580918,-73.828877,3298,Not Accessible,1987
+835,Line S 42nd Station 36,A DIVISION,S 42nd,Queens,Zone 3,40.594445,-73.81555,50139,Accessible,1913
+836,Line S 42nd Station 37,A DIVISION,S 42nd,Brooklyn,Zone 2,40.809901,-73.786903,57129,Accessible,2010
+837,Line S 42nd Station 38,A DIVISION,S 42nd,Bronx,Zone 3,40.663307,-73.982124,50322,Not Accessible,1917
+838,Line S 42nd Station 39,A DIVISION,S 42nd,Queens,Zone 2,40.813703,-73.957113,8923,Accessible,1922
+839,Line S 42nd Station 40,A DIVISION,S 42nd,Brooklyn,Zone 3,40.625611,-74.012838,47678,Accessible,1983
+840,Line S 42nd Station 41,A DIVISION,S 42nd,Staten Island,Zone 1,40.657298,-73.845463,59137,Accessible,1924
+841,Line S 42nd Station 42,A DIVISION,S 42nd,Brooklyn,Zone 2,40.884304,-73.8168,56736,Accessible,2004
+842,Line S 42nd Station 43,A DIVISION,S 42nd,Queens,Zone 3,40.710341,-73.899439,8202,Not Accessible,1988
+843,Line S 42nd Station 44,A DIVISION,S 42nd,Manhattan,Zone 1,40.794818,-73.87743,23035,Not Accessible,1940
+844,Line S 42nd Station 45,A DIVISION,S 42nd,Brooklyn,Zone 1,40.699529,-73.815742,7631,Accessible,1983
+845,Line S Fkln Station 01,B DIVISION,S Fkln,Manhattan,Zone 2,40.654356,-73.942303,50185,Accessible,2002
+846,Line S Fkln Station 02,B DIVISION,S Fkln,Bronx,Zone 3,40.663811,-73.885034,39144,Not Accessible,1986
+847,Line S Fkln Station 03,B DIVISION,S Fkln,Queens,Zone 1,40.730344,-73.867704,11015,Not Accessible,2009
+848,Line S Fkln Station 04,B DIVISION,S Fkln,Queens,Zone 3,40.878849,-73.942282,5539,Accessible,1905
+849,Line S Fkln Station 05,B DIVISION,S Fkln,Bronx,Zone 2,40.782101,-73.770671,39444,Not Accessible,1942
+850,Line S Fkln Station 06,B DIVISION,S Fkln,Manhattan,Zone 1,40.601748,-73.784201,38652,Accessible,1988
+851,Line S Fkln Station 07,B DIVISION,S Fkln,Manhattan,Zone 1,40.816096,-73.963124,14596,Accessible,1913
+852,Line S Fkln Station 08,B DIVISION,S Fkln,Bronx,Zone 3,40.856962,-73.953842,12630,Not Accessible,1939
+853,Line S Fkln Station 09,B DIVISION,S Fkln,Queens,Zone 1,40.622188,-73.956351,12740,Accessible,1905
+854,Line S Fkln Station 10,B DIVISION,S Fkln,Manhattan,Zone 1,40.881199,-74.036659,57067,Accessible,1939
+855,Line S Fkln Station 11,B DIVISION,S Fkln,Manhattan,Zone 2,40.760269,-73.774252,64085,Not Accessible,1961
+856,Line S Fkln Station 12,B DIVISION,S Fkln,Bronx,Zone 3,40.810558,-73.766661,36453,Accessible,1971
+857,Line S Fkln Station 13,B DIVISION,S Fkln,Queens,Zone 1,40.565205,-73.990846,34047,Accessible,1956
+858,Line S Fkln Station 14,B DIVISION,S Fkln,Bronx,Zone 1,40.789682,-73.853207,18442,Accessible,1984
+859,Line S Fkln Station 15,B DIVISION,S Fkln,Brooklyn,Zone 1,40.859198,-73.75986,28914,Not Accessible,1907
+860,Line S Fkln Station 16,B DIVISION,S Fkln,Queens,Zone 2,40.652609,-73.779295,36773,Accessible,1969
+861,Line S Fkln Station 17,B DIVISION,S Fkln,Queens,Zone 2,40.673437,-73.847469,17076,Not Accessible,2006
+862,Line S Fkln Station 18,B DIVISION,S Fkln,Bronx,Zone 3,40.575395,-74.013308,7462,Accessible,2014
+863,Line S Fkln Station 19,B DIVISION,S Fkln,Staten Island,Zone 3,40.806988,-73.801238,29222,Not Accessible,1919
+864,Line S Fkln Station 20,B DIVISION,S Fkln,Brooklyn,Zone 1,40.858265,-73.792004,10786,Not Accessible,1922
+865,Line S Fkln Station 21,B DIVISION,S Fkln,Manhattan,Zone 3,40.66214,-73.949518,61172,Accessible,1905
+866,Line S Fkln Station 22,B DIVISION,S Fkln,Bronx,Zone 2,40.822525,-73.83421,30048,Accessible,1951
+867,Line S Fkln Station 23,B DIVISION,S Fkln,Staten Island,Zone 2,40.64683,-73.904307,25043,Accessible,1980
+868,Line S Fkln Station 24,B DIVISION,S Fkln,Staten Island,Zone 1,40.880478,-73.810485,18721,Not Accessible,1943
+869,Line S Fkln Station 25,B DIVISION,S Fkln,Manhattan,Zone 2,40.706643,-73.912423,30491,Not Accessible,1913
+870,Line S Fkln Station 26,B DIVISION,S Fkln,Brooklyn,Zone 2,40.634223,-73.962667,40454,Not Accessible,1966
+871,Line S Fkln Station 27,B DIVISION,S Fkln,Staten Island,Zone 1,40.864745,-73.99868,38173,Accessible,1999
+872,Line S Fkln Station 28,B DIVISION,S Fkln,Staten Island,Zone 3,40.71427,-74.006381,25506,Accessible,1964
+873,Line S Fkln Station 29,B DIVISION,S Fkln,Queens,Zone 2,40.56918,-73.793272,52984,Accessible,1964
+874,Line S Fkln Station 30,B DIVISION,S Fkln,Brooklyn,Zone 3,40.612259,-73.907841,19943,Accessible,1958
+875,Line S Fkln Station 31,B DIVISION,S Fkln,Staten Island,Zone 1,40.758472,-73.757986,17470,Accessible,1930
+876,Line S Fkln Station 32,B DIVISION,S Fkln,Bronx,Zone 3,40.889378,-73.965125,26481,Accessible,2008
+877,Line S Fkln Station 33,B DIVISION,S Fkln,Manhattan,Zone 3,40.871559,-73.782156,7924,Accessible,1969
+878,Line S Fkln Station 34,B DIVISION,S Fkln,Queens,Zone 1,40.561377,-73.933204,14178,Not Accessible,1950
+879,Line S Fkln Station 35,B DIVISION,S Fkln,Manhattan,Zone 3,40.860513,-73.9719,24331,Not Accessible,1960
+880,Line S Fkln Station 36,B DIVISION,S Fkln,Staten Island,Zone 1,40.685668,-73.988369,59856,Not Accessible,1918
+881,Line S Fkln Station 37,B DIVISION,S Fkln,Queens,Zone 3,40.550097,-73.859475,27795,Accessible,1979
+882,Line S Fkln Station 38,B DIVISION,S Fkln,Queens,Zone 2,40.66913,-73.872097,61234,Not Accessible,1994
+883,Line S Fkln Station 39,B DIVISION,S Fkln,Staten Island,Zone 2,40.687617,-74.013579,32762,Accessible,1949
+884,Line S Rock Station 01,B DIVISION,S Rock,Brooklyn,Zone 2,40.583934,-73.873939,34779,Accessible,1990
+885,Line S Rock Station 02,B DIVISION,S Rock,Bronx,Zone 3,40.823544,-73.995481,14582,Accessible,1942
+886,Line S Rock Station 03,B DIVISION,S Rock,Bronx,Zone 3,40.692374,-73.874964,8971,Accessible,1919
+887,Line S Rock Station 04,B DIVISION,S Rock,Staten Island,Zone 2,40.643785,-73.964238,5685,Accessible,1944
+888,Line S Rock Station 05,B DIVISION,S Rock,Manhattan,Zone 1,40.846965,-73.827728,20320,Accessible,1914
+889,Line S Rock Station 06,B DIVISION,S Rock,Bronx,Zone 1,40.586261,-73.8945,30248,Not Accessible,1980
+890,Line S Rock Station 07,B DIVISION,S Rock,Brooklyn,Zone 2,40.571055,-73.860464,5515,Not Accessible,1975
+891,Line S Rock Station 08,B DIVISION,S Rock,Queens,Zone 3,40.625337,-73.817641,31753,Accessible,1982
+892,Line S Rock Station 09,B DIVISION,S Rock,Bronx,Zone 2,40.745189,-73.944068,42209,Accessible,1961
+893,Line S Rock Station 10,B DIVISION,S Rock,Brooklyn,Zone 3,40.772668,-73.918259,12681,Not Accessible,1904
+894,Line S Rock Station 11,B DIVISION,S Rock,Manhattan,Zone 2,40.650529,-73.948689,28450,Accessible,2003
+895,Line S Rock Station 12,B DIVISION,S Rock,Queens,Zone 2,40.66879,-73.832845,10336,Accessible,1931
+896,Line S Rock Station 13,B DIVISION,S Rock,Bronx,Zone 1,40.594838,-73.87235,16734,Accessible,1954
+897,Line S Rock Station 14,B DIVISION,S Rock,Manhattan,Zone 2,40.88842,-73.910561,9500,Not Accessible,2014
+898,Line S Rock Station 15,B DIVISION,S Rock,Bronx,Zone 1,40.830602,-73.973353,24917,Accessible,1979
+899,Line S Rock Station 16,B DIVISION,S Rock,Bronx,Zone 2,40.669725,-74.038076,52712,Not Accessible,1939
+900,Line S Rock Station 17,B DIVISION,S Rock,Manhattan,Zone 3,40.676704,-73.877405,9659,Accessible,1930
+901,Line S Rock Station 18,B DIVISION,S Rock,Brooklyn,Zone 2,40.552972,-73.953833,63022,Accessible,1951
+902,Line S Rock Station 19,B DIVISION,S Rock,Manhattan,Zone 3,40.563124,-73.796374,31310,Accessible,1951
+903,Line S Rock Station 20,B DIVISION,S Rock,Brooklyn,Zone 1,40.55977,-73.818269,62097,Accessible,2007
+904,Line S Rock Station 21,B DIVISION,S Rock,Bronx,Zone 1,40.782192,-73.891207,64220,Accessible,1945
+905,Line S Rock Station 22,B DIVISION,S Rock,Manhattan,Zone 2,40.57016,-74.047262,49325,Not Accessible,1998
+906,Line S Rock Station 23,B DIVISION,S Rock,Brooklyn,Zone 1,40.62509,-73.800784,8506,Accessible,1953
+907,Line S Rock Station 24,B DIVISION,S Rock,Manhattan,Zone 2,40.56885,-73.892397,8883,Not Accessible,2001
+908,Line S Rock Station 25,B DIVISION,S Rock,Staten Island,Zone 2,40.749095,-73.894985,10369,Not Accessible,1958
+909,Line S Rock Station 26,B DIVISION,S Rock,Queens,Zone 1,40.883614,-73.923138,63589,Accessible,2010
+910,Line S Rock Station 27,B DIVISION,S Rock,Bronx,Zone 1,40.736023,-73.768074,40462,Accessible,1999
+911,Line S Rock Station 28,B DIVISION,S Rock,Queens,Zone 1,40.633122,-73.870028,18306,Not Accessible,1998
+912,Line S Rock Station 29,B DIVISION,S Rock,Queens,Zone 3,40.661407,-73.832892,35181,Not Accessible,1997
+913,Line S Rock Station 30,B DIVISION,S Rock,Manhattan,Zone 2,40.659899,-74.038614,15976,Not Accessible,1959
+914,Line S Rock Station 31,B DIVISION,S Rock,Staten Island,Zone 2,40.735569,-73.990785,14059,Not Accessible,1963
+915,Line S Rock Station 32,B DIVISION,S Rock,Bronx,Zone 1,40.6386,-73.904972,28252,Not Accessible,1984
+916,Line S Rock Station 33,B DIVISION,S Rock,Brooklyn,Zone 3,40.867651,-73.936804,24885,Not Accessible,1947
+917,Line S Rock Station 34,B DIVISION,S Rock,Manhattan,Zone 3,40.622602,-73.874028,3580,Not Accessible,1955
+918,Line S Rock Station 35,B DIVISION,S Rock,Staten Island,Zone 3,40.56139,-73.995064,54788,Accessible,1917
+919,Line S Rock Station 36,B DIVISION,S Rock,Manhattan,Zone 2,40.558012,-73.811308,44078,Accessible,1981
+920,Line S Rock Station 37,B DIVISION,S Rock,Staten Island,Zone 1,40.81258,-73.849006,7896,Not Accessible,2009
+921,Line S Rock Station 38,B DIVISION,S Rock,Manhattan,Zone 3,40.705392,-73.974221,34237,Accessible,1959
+922,Line S Rock Station 39,B DIVISION,S Rock,Queens,Zone 3,40.721058,-73.950763,44397,Accessible,1938
+923,Line S Rock Station 40,B DIVISION,S Rock,Manhattan,Zone 3,40.590074,-73.855568,26009,Accessible,1944
+924,Line S Rock Station 41,B DIVISION,S Rock,Bronx,Zone 1,40.797077,-73.875401,3400,Not Accessible,1916
+925,Line S Rock Station 42,B DIVISION,S Rock,Brooklyn,Zone 1,40.827721,-73.936904,28151,Accessible,1922
+926,Line Systemwide Station 01,Systemwide,Systemwide,Queens,Zone 2,40.560764,-73.880324,64863,Accessible,1964
+927,Line Systemwide Station 02,Systemwide,Systemwide,Brooklyn,Zone 3,40.637074,-74.014954,58859,Not Accessible,1940
+928,Line Systemwide Station 03,Systemwide,Systemwide,Staten Island,Zone 1,40.76413,-73.909821,28507,Accessible,1984
+929,Line Systemwide Station 04,Systemwide,Systemwide,Queens,Zone 3,40.775827,-74.01018,37347,Accessible,1956
+930,Line Systemwide Station 05,Systemwide,Systemwide,Bronx,Zone 3,40.833473,-73.847749,11791,Not Accessible,1923
+931,Line Systemwide Station 06,Systemwide,Systemwide,Brooklyn,Zone 2,40.699394,-73.87602,53474,Accessible,1924
+932,Line Systemwide Station 07,Systemwide,Systemwide,Staten Island,Zone 3,40.701939,-73.893944,10409,Accessible,2002
+933,Line Systemwide Station 08,Systemwide,Systemwide,Bronx,Zone 1,40.723875,-73.854635,30659,Not Accessible,1990
+934,Line Systemwide Station 09,Systemwide,Systemwide,Staten Island,Zone 2,40.746047,-74.017721,55649,Not Accessible,1963
+935,Line Systemwide Station 10,Systemwide,Systemwide,Queens,Zone 2,40.649198,-73.794539,15102,Not Accessible,2011
+936,Line Systemwide Station 11,Systemwide,Systemwide,Staten Island,Zone 1,40.66601,-73.880019,38170,Accessible,2010
+937,Line Systemwide Station 12,Systemwide,Systemwide,Bronx,Zone 3,40.712047,-73.93826,15910,Not Accessible,1932
+938,Line Systemwide Station 13,Systemwide,Systemwide,Brooklyn,Zone 1,40.580204,-73.77685,49317,Not Accessible,1989
+939,Line Systemwide Station 14,Systemwide,Systemwide,Bronx,Zone 1,40.786187,-73.776065,33363,Not Accessible,1930
+940,Line Systemwide Station 15,Systemwide,Systemwide,Queens,Zone 3,40.745996,-73.944478,58616,Not Accessible,1961
+941,Line Systemwide Station 16,Systemwide,Systemwide,Brooklyn,Zone 2,40.619813,-73.903306,53626,Not Accessible,1920
+942,Line Systemwide Station 17,Systemwide,Systemwide,Manhattan,Zone 2,40.615092,-73.915675,19941,Not Accessible,1980
+943,Line Systemwide Station 18,Systemwide,Systemwide,Staten Island,Zone 3,40.672573,-73.922402,37858,Not Accessible,2009
+944,Line Systemwide Station 19,Systemwide,Systemwide,Manhattan,Zone 1,40.723636,-73.938736,50665,Accessible,1940
+945,Line Systemwide Station 20,Systemwide,Systemwide,Bronx,Zone 1,40.64862,-73.85495,10732,Not Accessible,1920
+946,Line Systemwide Station 21,Systemwide,Systemwide,Staten Island,Zone 3,40.708464,-74.023613,30521,Not Accessible,1982
+947,Line Systemwide Station 22,Systemwide,Systemwide,Staten Island,Zone 2,40.712641,-73.81734,50563,Not Accessible,1971
+948,Line Systemwide Station 23,Systemwide,Systemwide,Bronx,Zone 3,40.656537,-74.011753,34611,Not Accessible,1994
+949,Line Systemwide Station 24,Systemwide,Systemwide,Brooklyn,Zone 3,40.796703,-73.861755,21025,Not Accessible,1927
+950,Line Systemwide Station 25,Systemwide,Systemwide,Queens,Zone 2,40.648094,-73.903635,21568,Not Accessible,1925
+951,Line Systemwide Station 26,Systemwide,Systemwide,Brooklyn,Zone 1,40.805417,-74.003891,46437,Accessible,1933
+952,Line Systemwide Station 27,Systemwide,Systemwide,Bronx,Zone 1,40.795114,-73.90482,31126,Accessible,1940
+953,Line Systemwide Station 28,Systemwide,Systemwide,Brooklyn,Zone 2,40.712379,-73.87963,48488,Not Accessible,2008
+954,Line Systemwide Station 29,Systemwide,Systemwide,Brooklyn,Zone 1,40.676836,-73.853511,34804,Accessible,2002
+955,Line Systemwide Station 30,Systemwide,Systemwide,Manhattan,Zone 1,40.824443,-73.888096,42156,Accessible,1925
+956,Line Systemwide Station 31,Systemwide,Systemwide,Brooklyn,Zone 3,40.88576,-73.974485,30390,Not Accessible,1980
+957,Line Systemwide Station 32,Systemwide,Systemwide,Bronx,Zone 1,40.697043,-73.958964,29724,Accessible,1998
+958,Line Systemwide Station 33,Systemwide,Systemwide,Brooklyn,Zone 2,40.598375,-74.043758,48630,Not Accessible,1916
+959,Line Systemwide Station 34,Systemwide,Systemwide,Bronx,Zone 1,40.830231,-73.899773,57857,Not Accessible,1996
+960,Line Systemwide Station 35,Systemwide,Systemwide,Manhattan,Zone 1,40.850892,-73.872086,34421,Accessible,1935
+961,Line Systemwide Station 36,Systemwide,Systemwide,Manhattan,Zone 3,40.810286,-74.025601,36501,Not Accessible,1946
+962,Line Systemwide Station 37,Systemwide,Systemwide,Queens,Zone 3,40.894028,-73.819806,23454,Not Accessible,1976
+963,Line Systemwide Station 38,Systemwide,Systemwide,Manhattan,Zone 1,40.833483,-74.035044,4000,Accessible,1948
+964,Line Systemwide Station 39,Systemwide,Systemwide,Bronx,Zone 2,40.615691,-73.905435,48131,Not Accessible,1904
+965,Line Systemwide Station 40,Systemwide,Systemwide,Queens,Zone 2,40.754009,-74.010794,17665,Not Accessible,1927
+966,Line Systemwide Station 41,Systemwide,Systemwide,Bronx,Zone 2,40.699822,-73.885999,42719,Not Accessible,2008
+967,Line Systemwide Station 42,Systemwide,Systemwide,Manhattan,Zone 1,40.790463,-73.905597,61609,Not Accessible,1987
+968,Line Systemwide Station 43,Systemwide,Systemwide,Brooklyn,Zone 2,40.749765,-73.78934,35411,Accessible,2008
+969,Line Systemwide Station 44,Systemwide,Systemwide,Queens,Zone 2,40.842545,-73.957855,7977,Not Accessible,1963
+970,Line Systemwide Station 45,Systemwide,Systemwide,Bronx,Zone 3,40.594301,-73.924248,44919,Accessible,1989
+971,Line Systemwide Station 46,Systemwide,Systemwide,Brooklyn,Zone 3,40.741555,-73.809528,10864,Accessible,1929
